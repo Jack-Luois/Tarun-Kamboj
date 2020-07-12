@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on any Web (Django) and ML projects.
 - 🤔 I’m looking for help with getting an internship 😅.
 - 💬 Ask me about anything you want
-- 📫 How to reach me: kambojtarun02@gmail.com | www.kambojtarun.pythonanywhere.com | www.linkedin.com/in/kambojtarun
+- 📫 How to reach me: kambojtarun02@gmail.com | https://www.kambojtarun.pythonanywhere.com | https://www.linkedin.com/in/kambojtarun
 - ⚡ Fun fact: I'm a Beatboxer.
 
