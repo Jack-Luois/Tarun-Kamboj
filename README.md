@@ -1,15 +1,4 @@
-## Hi there 👋
-
-<!--
-**Tarun-Kamboj/Tarun-Kamboj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
--->
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"> <br>
-- 🔭 I’m currently working on Python, Django, ML and Data Science.
-- 🌱 I’m currently learning TensorFlow for Deep Learning.
-- 👯 I’m looking to collaborate on any Web (Django) and ML projects.
-- 🤔 I’m looking for help with getting an internship 😅.
-- 💬 Ask me about anything you want.
-- 📫 How to reach me: https://kambojtarun.pythonanywhere.com/ | https://www.linkedin.com/in/kambojtarun | kambojtarun02@gmail.com 
-- ⚡ Fun fact: I'm a **Beatboxer** 🗣.
-
+# <img src="https://media.giphy.com/media/3ornjJphIlZjcTbTyg/giphy.gif" height="80px" width="150px"> I'm an Aspiring Data Scientist and a Django Developer.
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" height="400px" width="700px"> <br>
+### <a href="https://www.linkedin.com/in/kambojtarun">Connect with me on LinkedIn : <br><img src="‪C:\Users\kambo\Downloads\linkedin.gif"></a>
+https://kambojtarun.pythonanywhere.com/ 
