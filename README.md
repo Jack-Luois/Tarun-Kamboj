@@ -1,6 +1,6 @@
 ## Hello There 👋 my name is Tarun.
 
-I am a 19 years old **Aspiring Data Scientist** and a **Django Developer**. My passion lies in learning new things and keep evolving <br>myself for self betterment. 
+I am a 19 years old **Aspiring Data Scientist** and a **Django Developer**. My passion lies in learning new things and keep evolving myself. 
 
 <a href="https://kambojtarun.pythonanywhere.com/"><img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" ></a>
 
