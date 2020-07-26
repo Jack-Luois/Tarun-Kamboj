@@ -1,10 +1,8 @@
 ## Hello There 👋 my name is Tarun.
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
-
-I am a 19 years old aspiring data scientist who enjoys connecting the dots: be it ideas from different disciplines or applications from different industries. 
-I have strong technical skills and an academic background in engineering, statistics, and machine learning. 
-My passion lies in learning new things and keep evolving myself for self betterment.
+|  |  |
+| --------------- | --------------- |
+| <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" > | I am a 19 years old aspiring data scientist who enjoys connecting the dots, <br>be it ideas from different disciplines or applications from different industries.<br>I have strong technical skills and an academic background in engineering, statistics,<br>and machine learning. My passion lies in learning new things and keep evolving <br>myself for self betterment. |
 
 ### Skills 
 #### Proficient: ​ 
