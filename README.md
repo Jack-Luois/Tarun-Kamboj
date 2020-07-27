@@ -2,7 +2,7 @@
 
 |  |  | 
 | --------------- | --------------- | 
-| I am a 19 years old **Aspiring Data Scientist** and a **Django Developer**.<br> My passion lies in learning new things and keep evolving myself.  | <a href="https://kambojtarun.pythonanywhere.com/"><img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" ></a> | 
+| I am a 19 years old **Aspiring Data Scientist** and a **Django <br>Developer**. My passion lies in learning new things and keep <br>evolving myself.  | <a href="https://kambojtarun.pythonanywhere.com/"><img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" ></a> | 
 
 ### Skills 
 #### Proficient: ​ 
