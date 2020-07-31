@@ -1,6 +1,6 @@
 ## Hello There 👋 my name is Tarun.
-I am a 19 years old **Aspiring Data Scientist** and a **Django Developer**. My passion lies in learning new things and keep evolving myself.  
-<a href="https://kambojtarun.pythonanywhere.com/"><center><img src="https://mack-1999.github.io/Makarand-Nikam-Portfolio/img/Banner/home-img.jpg" width="50%"></center></a>
+I am a 19 years old **Aspiring Data Scientist** and a **Django Developer**. My passion lies in learning new things and keep evolving myself.
+<div style="align:center;"><img src="https://mack-1999.github.io/Makarand-Nikam-Portfolio/img/Banner/home-img.jpg" width="50%"></div>
 
 ### Skills 
 #### Proficient: ​ 
