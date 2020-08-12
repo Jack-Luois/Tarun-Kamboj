@@ -15,7 +15,7 @@ I am a 19 years old **Aspiring Data Scientist** and a **Django Developer**. My p
 #### Knowledgeable: ​ 
     • Deep Learning (Keras, TensorFlow)
     • Artificial Intelligence
-    • Big Data
+    • Big Data Analysis
     • Recommender Systems
 
 ### Find me on :
