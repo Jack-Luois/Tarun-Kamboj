@@ -5,16 +5,14 @@ I am a 19 years old **Aspiring Data Scientist** and a **Django Developer**. My p
 </p>
 
 ### Skills 
-#### Proficient: ​ 
     • Python
     • Web Development (Django)
     • Machine learning (Sklearn, Apache Spark) 
     • Data Analysis (NumPy, Pandas)
     • Data Visualization (Folium, Seaborn,Matplotlib including artist layer)
-    
-#### Knowledgeable: ​ 
     • Deep Learning (Keras, TensorFlow)
     • Artificial Intelligence
+    • SQL and Databases
     • Big Data Analysis
     • Recommender Systems
 
