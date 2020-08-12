@@ -26,3 +26,6 @@ I am a 19 years old **Aspiring Data Scientist** and a **Django Developer**. My p
 [![Twitter](https://img.shields.io/badge/Twitter--33c2ff?style=for-the-badge&logo=Twitter)](https://twitter.com/kamboj_tarun_02)
 [![Instagram](https://img.shields.io/badge/Instagram--f54745?style=for-the-badge&logo=Instagram)](https://www.instagram.com/___.t_a_r_u_n.___/)
 [![HackerRank](https://img.shields.io/badge/HackerRank--36a334?style=for-the-badge&logo=Hackerrank)](https://www.hackerrank.com/Eternal_)
+<hr>
+
+![Tarun_Kamboj](/Tarunkambojlogo.png)
