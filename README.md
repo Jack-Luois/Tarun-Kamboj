@@ -18,7 +18,7 @@ I am a 19 years old **Aspiring Data Scientist** and a **Django Developer**. My p
     • Big Data Analysis
     • Recommender Systems
 
-### Find me on :
+### Get in Touch by -
 
 [![LinkedIN](https://img.shields.io/badge/LinkedIn--5eb0f7?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/kambojtarun)
 [![Portfolio](https://img.shields.io/badge/Portfolio--b25ef7?style=for-the-badge&logo=JSON+Web+Tokens)](https://kambojtarun.pythonanywhere.com/)
