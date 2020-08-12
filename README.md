@@ -28,4 +28,4 @@ I am a 19 years old **Aspiring Data Scientist** and a **Django Developer**. My p
 [![HackerRank](https://img.shields.io/badge/HackerRank--36a334?style=for-the-badge&logo=Hackerrank)](https://www.hackerrank.com/Eternal_)
 <hr>
 
-![Tarun_Kamboj](/Tarunkambojlogo.png)
+![Tarun_Kamboj](Tarun-Kamboj/Tarunkambojlogo.png)
