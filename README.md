@@ -18,4 +18,11 @@ I am a 19 years old **Aspiring Data Scientist** and a **Django Developer**. My p
     • Big Data
     • Recommender Systems
 
-### Feel free to connect with me on <a href="https://www.linkedin.com/in/kambojtarun">LinkedIn</a>, visit my <a href="https://kambojtarun.pythonanywhere.com/">Portfolio</a> or <a href="mailto: kambojtarun02@gmail.com">Email</a> me.
+### Find me on :
+
+[![LinkedIN](https://img.shields.io/badge/LinkedIn--5eb0f7?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/kambojtarun)
+[![Portfolio](https://img.shields.io/badge/Portfolio--b25ef7?style=for-the-badge&logo=JSON+Web+Tokens)](https://kambojtarun.pythonanywhere.com/)
+[![Gmail](https://img.shields.io/badge/Email_Me--f54745?style=for-the-badge&logo=Gmail)](mailto:kambojtarun02@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter--33c2ff?style=for-the-badge&logo=Twitter)](https://twitter.com/kamboj_tarun_02)
+[![Instagram](https://img.shields.io/badge/Instagram--f54745?style=for-the-badge&logo=Instagram)](https://www.instagram.com/___.t_a_r_u_n.___/)
+[![HackerRank](https://img.shields.io/badge/HackerRank--36a334?style=for-the-badge&logo=Hackerrank)](https://www.hackerrank.com/Eternal_)
