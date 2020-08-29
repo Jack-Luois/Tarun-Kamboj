@@ -15,6 +15,9 @@ I am a 19 years old **Aspiring Data Scientist** and a **Django Developer**. My p
     • SQL and Databases
     • Big Data Analysis
     • Recommender Systems
+    
+[![Tarun's github stats](https://github-readme-stats.vercel.app/api?username=Tarun-Kamboj&hide=stars&show_icons=true)](https://github.com/Tarun-Kamboj/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarun-Kamboj&layout=compact)](https://github.com/Tarun-Kamboj/github-readme-stats)
 
 ### Get in Touch by -
 
