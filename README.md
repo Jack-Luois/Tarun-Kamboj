@@ -12,6 +12,7 @@ I am a 19 years old **Aspiring Data Scientist** and a **Django Developer**. My p
     • Data Visualization (Folium, Seaborn,Matplotlib including artist layer)
     • Deep Learning (Keras, TensorFlow)
     • Artificial Intelligence
+    • Data Science
     • SQL and RDBMS
     • Big Data Analysis
     • Recommender Systems
