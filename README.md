@@ -1,7 +1,7 @@
 ## Hello There 👋 my name is <a href="https://tarun-kamboj.github.io/">Tarun.</a>  ![Profile Views](https://komarev.com/ghpvc/?username=Tarun-Kamboj&style=flat-square&color=4287f5)
 I am a 20 years old **Aspiring Data Scientist** and a **Django Developer**. My passion lies in learning new things and keep evolving myself.
 <p align="center">
-  <a href="https://tarun-kamboj.github.io/"><img src="https://mack-1999.github.io/Makarand-Nikam-Portfolio/img/Banner/home-img.jpg" width="70%"></a>
+  <a href="https://tarun-kamboj.github.io/"><img src="image.jpg" width="70%"></a>
 </p>
 
 ### Skills 
