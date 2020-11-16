@@ -3,7 +3,7 @@
 <h3 align="center">Aspiring Data Scientist | Django Developer</h3>
 <p align="center"><a href="https://tarun-kamboj.github.io/"><img src="/image.jpeg" width="70%"></a></p>
 <h3 align="center">Passionate about learning new stuff and keep evolving.</h3><br>
-
+<p align="center"><img src="https://www.india.com/wp-content/uploads/2015/08/chrome-giff.gif" width="100%"></p><br>
 <h2 align="center">Tools</h2>
 
 <p align="center">
@@ -25,10 +25,9 @@
 </p><br>
 
 
-<p align="center"><img src="https://www.india.com/wp-content/uploads/2015/08/chrome-giff.gif" width="100%"></p><br>
 <h2 align="center">Stats</h2>
 <p align="center">
-  <img width="125px" src="https://camo.githubusercontent.com/9ad8cfe3215fff758ea74784f86ef0de25b6acfbd6a4fab19d9a13ff47b05843/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f616e7572616768617a72612f696d6167652f75706c6f61642f76313539343930383234322f6c6f676f5f636373776d652e737667">
+  <img width="110px" src="https://camo.githubusercontent.com/9ad8cfe3215fff758ea74784f86ef0de25b6acfbd6a4fab19d9a13ff47b05843/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f616e7572616768617a72612f696d6167652f75706c6f61642f76313539343930383234322f6c6f676f5f636373776d652e737667">
 </p>
 
 <table align="center">
@@ -47,7 +46,7 @@
     </th>
   </tr>
 </table>
-
+<br>
 <h2 align="center">Find me on</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/kambojtarun"><img src="https://img.shields.io/badge/-LinkedIn-5e5e5e?style=for-the-badge&logo=LinkedIn"></a>
