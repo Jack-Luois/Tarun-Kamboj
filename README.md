@@ -4,8 +4,11 @@ I am a 20 years old **Aspiring Data Scientist** and a **Django Developer**. My p
   <a href="https://tarun-kamboj.github.io/"><img src="/image.jpeg" width="70%"></a>
 </p>
 
+<img src="https://img.shields.io/badge/--ffffff?style=for-the-badge&logo=Python" width="100px">
+
+
 ### Skills 
-    • Python
+    • Python 
     • Web Development (Django)
     • Machine learning (Sklearn, Apache Spark) 
     • Data Analysis (NumPy, Pandas)
