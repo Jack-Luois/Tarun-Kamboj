@@ -6,6 +6,7 @@
 <p align="center"><img src="https://www.india.com/wp-content/uploads/2015/08/chrome-giff.gif" width="100%"></p><br>
 
 <h2 align="center">Tools</h2>
+
 <p align="center">
 <img align="left" height="40px" width="40px" src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-svg-vector.svg">
 <img align="left" height="40px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png">
@@ -21,18 +22,14 @@
 <img align="left" height="40px" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/726px-CSS3_logo_and_wordmark.svg.png">
 <img align="left" height="40px" width="40px" src="https://sdtimes.com/wp-content/uploads/2018/01/bootstrap-stack-490x412.png">
 <img align="left" height="40px" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/django-1-282754.png">
-</p>
-
-<p align="center"><h2></h2></p>
-<p align="center"><h2></h2></p>
+</p><br>
 
 <h2 align="center">Stats</h2>
-
 
 [![Tarun's github stats](https://github-readme-stats.vercel.app/api?username=Tarun-Kamboj&hide=issues&show_icons=true)](https://github.com/Tarun-Kamboj/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarun-Kamboj&layout=compact)](https://github.com/Tarun-Kamboj/github-readme-stats)
 
-<h2 align="center">Find me on</h2><br>
+<h2 align="center">Find me on</h2>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/kambojtarun"><img src="https://img.shields.io/badge/-LinkedIn-5e5e5e?style=for-the-badge&logo=LinkedIn"></a>
