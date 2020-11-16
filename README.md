@@ -1,12 +1,18 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Tarun-Kamboj&style=flat-square&color=4287f5"></p>
+
 <h1 align="center"> Hi <img height="35px" width="35px" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" /> my name is <a href="https://tarun-kamboj.github.io/">Tarun.</a></h1>
+
 <p align="center"><a href="https://tarun-kamboj.github.io/"><img src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" width="400px"></a></p>
+
 <h2 align="center">What i do?</h2>
-<h3 align="center">1. Data Science</h3>
-<p align="center"><a href="https://tarun-kamboj.github.io/"><img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="400px"></a></p>
-<h3 align="center">2. Full Stack web development</h3>
+
+<h3 align="center">1. Full stack web development</h3>
 <p align="center"><a href="https://tarun-kamboj.github.io/"><img src="https://camo.githubusercontent.com/af294ac6128143eb9e5d50ad3000623978355e38/68747470733a2f2f7777772e72617673616e6d656469612e636f6d2f7765625f6173736574732f696d616765732f776562736974652e676966" width="500px"></a></p>
-<h2 align="center">Tools</h2>
+
+<h3 align="center">2. Data science</h3>
+<p align="center"><a href="https://tarun-kamboj.github.io/"><img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="400px"></a></p>
+
+<h2 align="center">Tools i use</h2>
 
 <p align="center">
 <img height="40px" width="40px" src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-svg-vector.svg">
@@ -26,8 +32,8 @@
 <img height="40px" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/django-1-282754.png">
 </p><br>
 
+<h2 align="center">Profile stats</h2>
 
-<h2 align="center">Stats</h2>
 <p align="center">
   <img width="110px" src="https://camo.githubusercontent.com/9ad8cfe3215fff758ea74784f86ef0de25b6acfbd6a4fab19d9a13ff47b05843/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f616e7572616768617a72612f696d6167652f75706c6f61642f76313539343930383234322f6c6f676f5f636373776d652e737667">
 </p>
@@ -47,9 +53,10 @@
       </details>
     </th>
   </tr>
-</table>
-<br>
+</table><br>
+
 <h2 align="center">Find me on</h2>
+
 <p align="center">
 <a href="https://www.linkedin.com/in/kambojtarun"><img src="https://img.shields.io/badge/-LinkedIn-5e5e5e?style=for-the-badge&logo=LinkedIn"></a>
 <a href="https://tarun-kamboj.github.io/"><img src="https://img.shields.io/badge/-Portfolio-5e5e5e?style=for-the-badge&logo=JSON+Web+Tokens"></a>
@@ -59,5 +66,7 @@
 <a href="https://www.instagram.com/___.t_a_r_u_n.___/"><img src="https://img.shields.io/badge/-Instagram-5e5e5e?style=for-the-badge&logo=Instagram"></a>
 <a href="https://goo.gl/maps/nqCMMFyNCjsscz3x6"><img src="https://img.shields.io/badge/-Google_Map-5e5e5e?style=for-the-badge&logo=Google-Maps"></a>
 </p>
+
 <hr>
+
 <p align="center"><img height="40px" src="https://forthebadge.com/images/badges/built-with-love.svg"></p>
