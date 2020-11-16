@@ -5,8 +5,10 @@
 <h3 align="center">Passionate about learning new stuff and keep evolving.</h3><br>
 <p align="center"><img src="https://www.india.com/wp-content/uploads/2015/08/chrome-giff.gif" width="100%"></p><br>
 
-<h2 align="center">Skills and Tools</h2><br>
+<h2 align="center">Skills and Tools</h2>
 
+<br><br>
+<div align="center">
 <img align="left" height="50px" width="50px" src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-svg-vector.svg">
 <img align="left" height="50px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png">
 <img align="left" height="50px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png">
@@ -21,8 +23,8 @@
 <img align="left" height="50px" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/726px-CSS3_logo_and_wordmark.svg.png">
 <img align="left" height="50px" width="50px" src="https://sdtimes.com/wp-content/uploads/2018/01/bootstrap-stack-490x412.png">
 <img align="left" height="50px" width="50px" src="https://cdn.iconscout.com/icon/free/png-256/django-1-282754.png">
-
-<br><br>
+</div>
+<br><br><br><br>
 
 <h2 align="center">Stats</h2>
     
@@ -31,12 +33,13 @@
 
 <h2 align="center">Find me on</h2><br>
 
-[![LinkedIN](https://img.shields.io/badge/LinkedIn--0077B5?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/kambojtarun)
-[![Portfolio](https://img.shields.io/badge/Portfolio--b25ef7?style=for-the-badge&logo=JSON+Web+Tokens)](https://tarun-kamboj.github.io/)
-[![Gmail](https://img.shields.io/badge/Email_Me--D14836?style=for-the-badge&logo=Gmail)](mailto:kambojtarun02@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter--1DA1F2?style=for-the-badge&logo=Twitter)](https://twitter.com/kamboj_tarun_02)
-[![HackerRank](https://img.shields.io/badge/HackerRank--2EC866?style=for-the-badge&logo=Hackerrank)](https://www.hackerrank.com/Eternal_)
-[![Instagram](https://img.shields.io/badge/Instagram--E4405F?style=for-the-badge&logo=Instagram)](https://www.instagram.com/___.t_a_r_u_n.___/)
+[![LinkedIN](https://img.shields.io/badge/-LinkedIn-5e5e5e?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/kambojtarun)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-5e5e5e?style=for-the-badge&logo=JSON+Web+Tokens)](https://tarun-kamboj.github.io/)
+[![Gmail](https://img.shields.io/badge/-Email_Me-5e5e5e?style=for-the-badge&logo=Gmail)](mailto:kambojtarun02@gmail.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-5e5e5e?style=for-the-badge&logo=Twitter)](https://twitter.com/kamboj_tarun_02)
+[![HackerRank](https://img.shields.io/badge/-HackerRank-5e5e5e?style=for-the-badge&logo=Hackerrank)](https://www.hackerrank.com/Eternal_)
+[![Instagram](https://img.shields.io/badge/-Instagram-5e5e5e?style=for-the-badge&logo=Instagram)](https://www.instagram.com/___.t_a_r_u_n.___/)
+[![Map](https://img.shields.io/badge/-Google_Map-5e5e5e?style=for-the-badge&logo=Google-Maps)](https://goo.gl/maps/nqCMMFyNCjsscz3x6)
 <hr>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](http://kambojtarun.pythonanywhere.com/)
