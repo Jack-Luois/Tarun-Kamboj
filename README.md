@@ -12,6 +12,7 @@
 <img align="left" height="40px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png">
 <img align="left" height="40px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png">
 <img align="left" height="40px" width="40px" src="https://symbols.getvecta.com/stencil_74/36_apache-spark-icon.b3f8a606f9.jpg">
+<img align="left" height="40px" width="35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png">
 <img align="left" height="40px" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png">
 <img align="left" height="40px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png">
 <img align="left" height="40px" width="40px" src="https://python-visualization.github.io/folium/_images/folium_logo.jpg">
@@ -24,13 +25,21 @@
 <img align="left" height="40px" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/django-1-282754.png">
 </p><br>
 
-<h2 align="center">Stats</h2>
+<p align="center">
+  <a href="https://github.com/codeSTACKr/codeSTACKr"><img width="50%" src="https://now-playing-codestackr.vercel.app/api/spotify-playing"></a>
+</p>
 
-[![Tarun's github stats](https://github-readme-stats.vercel.app/api?username=Tarun-Kamboj&hide=issues&show_icons=true)](https://github.com/Tarun-Kamboj/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarun-Kamboj&layout=compact)](https://github.com/Tarun-Kamboj/github-readme-stats)
+<h2 align="center">Stats</h2>
+<p align="center">
+  <img width="10%" src="https://camo.githubusercontent.com/9ad8cfe3215fff758ea74784f86ef0de25b6acfbd6a4fab19d9a13ff47b05843/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f616e7572616768617a72612f696d6167652f75706c6f61642f76313539343930383234322f6c6f676f5f636373776d652e737667">
+</p>
+
+| <details align="center"><summary> GitHub Stats</summary><img align="left" alt="Eternal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Tarun-Kamboj&show_icons=true&hide_border=true&count_private=true" /></details> | <details  align="center"><summary> Most Used Languages</summary><img align="left" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarun-Kamboj&layout=compact&hide_border=true" /></details> |
+|-----|-----|
+
+
 
 <h2 align="center">Find me on</h2>
-
 <p align="center">
 <a href="https://www.linkedin.com/in/kambojtarun"><img src="https://img.shields.io/badge/-LinkedIn-5e5e5e?style=for-the-badge&logo=LinkedIn"></a>
 <a href="https://tarun-kamboj.github.io/"><img src="https://img.shields.io/badge/-Portfolio-5e5e5e?style=for-the-badge&logo=JSON+Web+Tokens"></a>
@@ -41,5 +50,4 @@
 <a href="https://goo.gl/maps/nqCMMFyNCjsscz3x6"><img src="https://img.shields.io/badge/-Google_Map-5e5e5e?style=for-the-badge&logo=Google-Maps"></a>
 </p>
 <hr>
-
-<p align="center"><img height="45px" src="https://forthebadge.com/images/badges/built-with-love.svg"></p>
+<p align="center"><img height="40px" src="https://forthebadge.com/images/badges/built-with-love.svg"></p>
