@@ -24,9 +24,9 @@
 <img align="left" height="50px" width="50px" src="https://sdtimes.com/wp-content/uploads/2018/01/bootstrap-stack-490x412.png">
 <img align="left" height="50px" width="50px" src="https://cdn.iconscout.com/icon/free/png-256/django-1-282754.png">
 </div>
-<br><br><br><br>
+<br><br><br>
 
-<h2 align="center">Stats</h2>
+<p></p><p></p><h2 align="center">Stats</h2>
     
 [![Tarun's github stats](https://github-readme-stats.vercel.app/api?username=Tarun-Kamboj&hide=issues&show_icons=true)](https://github.com/Tarun-Kamboj/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarun-Kamboj&layout=compact)](https://github.com/Tarun-Kamboj/github-readme-stats)
