@@ -5,7 +5,7 @@
 <h3 align="center">Passionate about learning new stuff and keep evolving.</h3><br>
 <p align="center"><img src="https://www.india.com/wp-content/uploads/2015/08/chrome-giff.gif" width="100%"></p><br>
 
-<h2 align="center">Tools</h2><br><br>
+<h2 align="center">Tools</h2>
 <div align="center">
 <img align="left" height="40px" width="40px" src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-svg-vector.svg">
 <img align="left" height="40px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png">
@@ -22,10 +22,7 @@
 <img align="left" height="40px" width="40px" src="https://sdtimes.com/wp-content/uploads/2018/01/bootstrap-stack-490x412.png">
 <img align="left" height="40px" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/django-1-282754.png">
 </div>
-<br><br><br>
 
-<p></p><p></p><p></p><p></p><h2 align="center">Stats</h2>
-    
 [![Tarun's github stats](https://github-readme-stats.vercel.app/api?username=Tarun-Kamboj&hide=issues&show_icons=true)](https://github.com/Tarun-Kamboj/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarun-Kamboj&layout=compact)](https://github.com/Tarun-Kamboj/github-readme-stats)
 
