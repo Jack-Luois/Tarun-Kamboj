@@ -41,7 +41,7 @@
 <table align="center">
   <tr>
     <th>
-      <img width="390px" align="left" alt="Eternal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Tarun-Kamboj&show_icons=true&hide=issues&hide_border=true&count_private=true" />
+      <img width="390px" align="left" alt="Eternal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Tarun-Kamboj&show_icons=true&hide_border=true&count_private=true" />
     </th>
     <th>
       <img width="390px" align="left" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarun-Kamboj&layout=compact&hide_border=true" />
