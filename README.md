@@ -1,6 +1,6 @@
 <h1 align="center"> Hi <img height="35px" width="35px" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" /> my name is <a href="https://tarun-kamboj.github.io/">Tarun.</a></h1>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Tarun-Kamboj&style=flat-square&color=4287f5"></p>
-<p align="center"><a href="https://tarun-kamboj.github.io/"><img src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif" width="500px"></a></p>
+<p align="center"><a href="https://tarun-kamboj.github.io/"><img src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" width="600px"></a></p>
 <h2 align="center">What i do?</h2>
 <h3 align="center">1. Data Science</h3>
 <p align="center"><a href="https://tarun-kamboj.github.io/"><img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="600px"></a></p>
