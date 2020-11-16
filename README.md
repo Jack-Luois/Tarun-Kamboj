@@ -3,7 +3,6 @@
 <h3 align="center">Aspiring Data Scientist | Django Developer</h3>
 <p align="center"><a href="https://tarun-kamboj.github.io/"><img src="/image.jpeg" width="70%"></a></p>
 <h3 align="center">Passionate about learning new stuff and keep evolving.</h3><br>
-<p align="center"><img src="https://www.india.com/wp-content/uploads/2015/08/chrome-giff.gif" width="100%"></p><br>
 
 <h2 align="center">Tools</h2>
 
@@ -25,10 +24,12 @@
 <img align="left" height="40px" width="40px" src="https://cdn.iconscout.com/icon/free/png-256/django-1-282754.png">
 </p><br>
 
-<p align="center">
+
+<p align="center"><img src="https://www.india.com/wp-content/uploads/2015/08/chrome-giff.gif" width="100%"></p><br>
+<h2 align="center">Stats</h2>
+<p align="center" style="padding-top: 15px;">
   <img width="125px" src="https://camo.githubusercontent.com/9ad8cfe3215fff758ea74784f86ef0de25b6acfbd6a4fab19d9a13ff47b05843/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f616e7572616768617a72612f696d6167652f75706c6f61642f76313539343930383234322f6c6f676f5f636373776d652e737667">
 </p>
-<h2 align="center">Stats</h2>
 
 | <details align="center"><summary> GitHub Stats</summary><img align="left" alt="Eternal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Tarun-Kamboj&show_icons=true&hide_border=true&count_private=true" /></details> | <details  align="center"><summary> Most Used Languages</summary><img align="left" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarun-Kamboj&layout=compact&hide_border=true" /></details> |
 |-----|-----|
