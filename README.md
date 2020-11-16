@@ -1,9 +1,11 @@
 <h1 align="center"> Hi <img height="35px" width="35px" src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" /> my name is <a href="https://tarun-kamboj.github.io/">Tarun.</a></h1>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Tarun-Kamboj&style=flat-square&color=4287f5"></p>
-<h3 align="center">Aspiring Data Scientist | Django Developer</h3>
-<p align="center"><a href="https://tarun-kamboj.github.io/"><img src="/image.jpeg" width="70%"></a></p>
-<h3 align="center">Passionate about learning new stuff and keep evolving.</h3><br>
-<p align="center"><img src="https://www.india.com/wp-content/uploads/2015/08/chrome-giff.gif" width="100%"></p><br>
+<p align="center"><a href="https://tarun-kamboj.github.io/"><img src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif" width="500px"></a></p>
+<h2 align="center">What i do?</h2>
+<h3 align="center">1. Data Science</h3>
+<p align="center"><a href="https://tarun-kamboj.github.io/"><img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="600px"></a></p>
+<h3 align="center">2. Full Stack web development</h3>
+<p align="center"><a href="https://tarun-kamboj.github.io/"><img src="https://camo.githubusercontent.com/af294ac6128143eb9e5d50ad3000623978355e38/68747470733a2f2f7777772e72617673616e6d656469612e636f6d2f7765625f6173736574732f696d616765732f776562736974652e676966" width="100%"></a></p>
 <h2 align="center">Tools</h2>
 
 <p align="center">
