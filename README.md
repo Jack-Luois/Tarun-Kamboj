@@ -64,7 +64,7 @@
 <a href="https://twitter.com/kamboj_tarun_02"><img src="https://img.shields.io/badge/-Twitter-5e5e5e?style=for-the-badge&logo=Twitter"></a>
 <a href="https://www.hackerrank.com/Eternal_"><img src="https://img.shields.io/badge/-HackerRank-5e5e5e?style=for-the-badge&logo=Hackerrank"></a>
 <a href="https://www.instagram.com/___.t_a_r_u_n.___/"><img src="https://img.shields.io/badge/-Instagram-5e5e5e?style=for-the-badge&logo=Instagram"></a>
-<a href="https://goo.gl/maps/nqCMMFyNCjsscz3x6"><img src="https://img.shields.io/badge/-Google_Map-5e5e5e?style=for-the-badge&logo=Google-Maps"></a>
+<a href="https://goo.gl/maps/nqCMMFyNCjsscz3x6"><img src="https://img.shields.io/badge/-Google_Maps-5e5e5e?style=for-the-badge&logo=Google-Maps"></a>
 </p>
 
 <hr>
