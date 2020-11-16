@@ -41,21 +41,13 @@
 <table align="center">
   <tr>
     <th>
-      <details align="center">
-        <summary> GitHub Stats</summary>
-        <img align="left" alt="Eternal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Tarun-Kamboj&show_icons=true&hide_border=true&count_private=true" />
-      </details>
+      <img align="left" alt="Eternal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Tarun-Kamboj&show_icons=true&hide_border=true&count_private=true" />
     </th>
     <th>
-      <details  align="center">
-        <summary> Most Used Languages</summary>
-        <img align="left" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarun-Kamboj&layout=compact&hide_border=true" />
-      </details>
+      <img align="left" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarun-Kamboj&layout=compact&hide_border=true" />
     </th>
   </tr>
 </table><br>
-<img align="left" alt="Eternal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Tarun-Kamboj&show_icons=true&hide_border=true&count_private=true" />
-<img align="left" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarun-Kamboj&layout=compact&hide_border=true" />
 
 <h2 align="center">Find me using</h2>
 
