@@ -67,10 +67,6 @@
 <a href="https://goo.gl/maps/nqCMMFyNCjsscz3x6"><img src="https://img.shields.io/badge/-Google_Map-5e5e5e?style=for-the-badge&logo=Google-Maps"></a>
 </p>
 
-<p align="center">
-  <img width="80px" src="https://i.pinimg.com/originals/ba/c6/d2/bac6d2291b70a19475bedc6245a22f08.gif">
-</p>
-
 <hr>
 
 <p align="center"><img height="40px" src="https://forthebadge.com/images/badges/built-with-love.svg"></p>
