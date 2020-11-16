@@ -35,7 +35,7 @@
 <h2 align="center">Profile stats</h2>
 
 <p align="center">
-  <img width="110px" src="https://camo.githubusercontent.com/9ad8cfe3215fff758ea74784f86ef0de25b6acfbd6a4fab19d9a13ff47b05843/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f616e7572616768617a72612f696d6167652f75706c6f61642f76313539343930383234322f6c6f676f5f636373776d652e737667">
+  <img width="130px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--0TbCN_Xq--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/tb6tb1wvi7f00eqns3g0.gif">
 </p>
 
 <table align="center">
@@ -65,6 +65,10 @@
 <a href="https://www.hackerrank.com/Eternal_"><img src="https://img.shields.io/badge/-HackerRank-5e5e5e?style=for-the-badge&logo=Hackerrank"></a>
 <a href="https://www.instagram.com/___.t_a_r_u_n.___/"><img src="https://img.shields.io/badge/-Instagram-5e5e5e?style=for-the-badge&logo=Instagram"></a>
 <a href="https://goo.gl/maps/nqCMMFyNCjsscz3x6"><img src="https://img.shields.io/badge/-Google_Map-5e5e5e?style=for-the-badge&logo=Google-Maps"></a>
+</p>
+
+<p align="center">
+  <img width="80px" src="https://i.pinimg.com/originals/ba/c6/d2/bac6d2291b70a19475bedc6245a22f08.gif">
 </p>
 
 <hr>
