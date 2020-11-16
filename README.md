@@ -55,12 +55,12 @@
   </tr>
 </table><br>
 
-<h2 align="center">Find me on</h2>
+<h2 align="center">Find me using</h2>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/kambojtarun"><img src="https://img.shields.io/badge/-LinkedIn-5e5e5e?style=for-the-badge&logo=LinkedIn"></a>
-<a href="https://tarun-kamboj.github.io/"><img src="https://img.shields.io/badge/-Portfolio-5e5e5e?style=for-the-badge&logo=JSON+Web+Tokens"></a>
-<a href="mailto:kambojtarun02@gmail.com"><img src="https://img.shields.io/badge/-Email_Me-5e5e5e?style=for-the-badge&logo=Gmail"></a>
+<a href="mailto:kambojtarun02@gmail.com"><img src="https://img.shields.io/badge/-Gmail-5e5e5e?style=for-the-badge&logo=Gmail"></a>
+<a href="https://tarun-kamboj.github.io/"><img src="https://img.shields.io/badge/-Portfolio-5e5e5e?style=for-the-badge&logo=Opsgenie"></a>
 <a href="https://twitter.com/kamboj_tarun_02"><img src="https://img.shields.io/badge/-Twitter-5e5e5e?style=for-the-badge&logo=Twitter"></a>
 <a href="https://www.hackerrank.com/Eternal_"><img src="https://img.shields.io/badge/-HackerRank-5e5e5e?style=for-the-badge&logo=Hackerrank"></a>
 <a href="https://www.instagram.com/___.t_a_r_u_n.___/"><img src="https://img.shields.io/badge/-Instagram-5e5e5e?style=for-the-badge&logo=Instagram"></a>
