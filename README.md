@@ -61,7 +61,6 @@
 <a href="https://www.linkedin.com/in/kambojtarun"><img src="https://img.shields.io/badge/-LinkedIn-5e5e5e?style=for-the-badge&logo=LinkedIn"></a>
 <a href="mailto:kambojtarun02@gmail.com"><img src="https://img.shields.io/badge/-Gmail-5e5e5e?style=for-the-badge&logo=Gmail"></a>
 <a href="https://tarun-kamboj.github.io/"><img src="https://img.shields.io/badge/-Portfolio-5e5e5e?style=for-the-badge&logo=Opsgenie"></a>
-<a href="https://twitter.com/kamboj_tarun_02"><img src="https://img.shields.io/badge/-Twitter-5e5e5e?style=for-the-badge&logo=Twitter"></a>
 <a href="https://www.hackerrank.com/Eternal_"><img src="https://img.shields.io/badge/-HackerRank-5e5e5e?style=for-the-badge&logo=Hackerrank"></a>
 <a href="https://www.instagram.com/___.t_a_r_u_n.___/"><img src="https://img.shields.io/badge/-Instagram-5e5e5e?style=for-the-badge&logo=Instagram"></a>
 <a href="https://www.google.com/maps/place/Ravi+Nagar,+Gobind+Pura,+Haryana+135002/@30.1463269,77.286907,18z/data=!4m2!3m1!1s0x390efbd7db3fb9fb:0x5f3fd8e81a2aba1e"><img src="https://img.shields.io/badge/-Google_Maps-5e5e5e?style=for-the-badge&logo=Google-Maps"></a>
