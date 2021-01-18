@@ -15,27 +15,28 @@
 <h2 align="center">Tools i use</h2>
 
 <p align="center">
-<img height="40px" width="40px" src="https://firebasestorage.googleapis.com/v0/b/test-1-c068e.appspot.com/o/python.svg?alt=media&token=d52a215a-04c3-437d-b991-7ec9323fe20f">
-<img height="40px" width="40px" src="https://firebasestorage.googleapis.com/v0/b/test-1-c068e.appspot.com/o/tensorflow.png?alt=media&token=eb75ac50-488a-4a85-9671-73f3d47b3cfd">
-<img height="40px" width="40px" src="https://firebasestorage.googleapis.com/v0/b/test-1-c068e.appspot.com/o/keras.png?alt=media&token=71e128b7-a99e-4578-afc2-5b05d4930b38">
-<img height="40px" width="40px" src="https://firebasestorage.googleapis.com/v0/b/test-1-c068e.appspot.com/o/apachespark.png?alt=media&token=392f1df5-06a5-454e-bcb6-f4c26de5ab06">
-<img height="40px" width="35px" src="https://firebasestorage.googleapis.com/v0/b/test-1-c068e.appspot.com/o/jupyter.png?alt=media&token=8b35d035-3645-4c5c-b31f-ae4940e8bf8a">
-<img height="40px" width="55px" src="https://firebasestorage.googleapis.com/v0/b/test-1-c068e.appspot.com/o/sklearn.png?alt=media&token=ace07928-8fa4-4ae6-8f05-014bbe4706c0">
-<img height="40px" width="40px" src="https://firebasestorage.googleapis.com/v0/b/test-1-c068e.appspot.com/o/pandas.png?alt=media&token=4c20e994-166a-4ff6-9c39-22cc9dd9345b">
-<img height="40px" width="40px" src="https://firebasestorage.googleapis.com/v0/b/test-1-c068e.appspot.com/o/folium.png?alt=media&token=79c79816-c348-41f9-91a2-dc764254a6ac">
-<img height="40px" width="40px" src="https://firebasestorage.googleapis.com/v0/b/test-1-c068e.appspot.com/o/seaborn.png?alt=media&token=b737bb96-4e0e-4a0d-a2f2-e1290207920d">
-<img height="40px" width="40px" src="https://firebasestorage.googleapis.com/v0/b/test-1-c068e.appspot.com/o/matplotlib.png?alt=media&token=4f9b7209-c90f-424c-8a2b-d4a7406be931">
-<img height="40px" width="42px" src="https://firebasestorage.googleapis.com/v0/b/test-1-c068e.appspot.com/o/sql.png?alt=media&token=cfa52ddc-b0e8-437b-8cb0-7de2c7ea5049">
-<img height="40px" width="40px" src="https://firebasestorage.googleapis.com/v0/b/test-1-c068e.appspot.com/o/db2.svg?alt=media&token=bc3a559d-8178-4885-b580-6ba83a51eb7d">
-<img height="40px" width="43px" src="https://firebasestorage.googleapis.com/v0/b/test-1-c068e.appspot.com/o/ibmwatson.png?alt=media&token=a8668e81-a35a-4d88-8925-395d09c8bce9">
-<img height="40px" width="40px" src="https://firebasestorage.googleapis.com/v0/b/test-1-c068e.appspot.com/o/firebase.png?alt=media&token=4e23a5b2-2ba4-4131-a5a7-a841968cdc1e">
-<img height="40px" width="40px" src="https://firebasestorage.googleapis.com/v0/b/test-1-c068e.appspot.com/o/watsonstudio.svg?alt=media&token=5a22819b-ca68-4d99-b03a-15fff17c38d4">
-<img height="40px" width="40px" src="https://firebasestorage.googleapis.com/v0/b/test-1-c068e.appspot.com/o/git.png?alt=media&token=c841510d-f231-426b-8e09-3c4927015184">
-<img height="40px" width="40px" src="https://firebasestorage.googleapis.com/v0/b/test-1-c068e.appspot.com/o/github.png?alt=media&token=3a30314d-cb01-40fd-8b36-55f8d318a7f3">
-<img height="40px" width="40px" src="https://firebasestorage.googleapis.com/v0/b/test-1-c068e.appspot.com/o/html.png?alt=media&token=37cbeaf1-6f13-4d63-a60a-0a83473ca0f1">
-<img height="40px" width="28px" src="https://firebasestorage.googleapis.com/v0/b/test-1-c068e.appspot.com/o/css.png?alt=media&token=81435545-45ad-444f-9ff8-d1f66c849cf7">
-<img height="40px" width="40px" src="https://firebasestorage.googleapis.com/v0/b/test-1-c068e.appspot.com/o/bootstrap.png?alt=media&token=210e55f3-8721-4901-8c67-b3befa7ae994">
-<img height="40px" width="40px" src="https://firebasestorage.googleapis.com/v0/b/test-1-c068e.appspot.com/o/django.png?alt=media&token=c266bf8b-6d2d-4092-8f03-2734dd2380fe">
+<img height="40px" src="https://firebasestorage.googleapis.com/v0/b/test-1-c068e.appspot.com/o/python.svg?alt=media&token=d52a215a-04c3-437d-b991-7ec9323fe20f">
+<img height="40px" src="https://firebasestorage.googleapis.com/v0/b/test-1-c068e.appspot.com/o/tensorflow.png?alt=media&token=eb75ac50-488a-4a85-9671-73f3d47b3cfd">
+<img height="40px" src="https://firebasestorage.googleapis.com/v0/b/test-1-c068e.appspot.com/o/keras.png?alt=media&token=71e128b7-a99e-4578-afc2-5b05d4930b38">
+<img height="40px" src="https://firebasestorage.googleapis.com/v0/b/test-1-c068e.appspot.com/o/apachespark.png?alt=media&token=392f1df5-06a5-454e-bcb6-f4c26de5ab06">
+<img height="40px" src="https://firebasestorage.googleapis.com/v0/b/test-1-c068e.appspot.com/o/jupyter.png?alt=media&token=8b35d035-3645-4c5c-b31f-ae4940e8bf8a">
+<img height="40px" src="https://firebasestorage.googleapis.com/v0/b/test-1-c068e.appspot.com/o/sklearn.png?alt=media&token=ace07928-8fa4-4ae6-8f05-014bbe4706c0">
+<img height="40px" src="https://firebasestorage.googleapis.com/v0/b/test-1-c068e.appspot.com/o/pandas.png?alt=media&token=4c20e994-166a-4ff6-9c39-22cc9dd9345b">
+<img height="40px" src="https://firebasestorage.googleapis.com/v0/b/test-1-c068e.appspot.com/o/folium.png?alt=media&token=79c79816-c348-41f9-91a2-dc764254a6ac">
+<img height="40px" src="https://firebasestorage.googleapis.com/v0/b/test-1-c068e.appspot.com/o/seaborn.png?alt=media&token=b737bb96-4e0e-4a0d-a2f2-e1290207920d">
+<img height="40px" src="https://firebasestorage.googleapis.com/v0/b/test-1-c068e.appspot.com/o/matplotlib.png?alt=media&token=4f9b7209-c90f-424c-8a2b-d4a7406be931">
+<img height="40px" src="https://firebasestorage.googleapis.com/v0/b/test-1-c068e.appspot.com/o/sql.png?alt=media&token=cfa52ddc-b0e8-437b-8cb0-7de2c7ea5049">
+<img height="40px" src="https://firebasestorage.googleapis.com/v0/b/test-1-c068e.appspot.com/o/sqlalchemy.png?alt=media&token=23aaa277-1fc6-49c2-a3b7-0e61be3dc278">
+<img height="40px" src="https://firebasestorage.googleapis.com/v0/b/test-1-c068e.appspot.com/o/db2.svg?alt=media&token=bc3a559d-8178-4885-b580-6ba83a51eb7d">
+<img height="40px" src="https://firebasestorage.googleapis.com/v0/b/test-1-c068e.appspot.com/o/ibmwatson.png?alt=media&token=a8668e81-a35a-4d88-8925-395d09c8bce9">
+<img height="40px" src="https://firebasestorage.googleapis.com/v0/b/test-1-c068e.appspot.com/o/firebase.png?alt=media&token=4e23a5b2-2ba4-4131-a5a7-a841968cdc1e">
+<img height="40px" src="https://firebasestorage.googleapis.com/v0/b/test-1-c068e.appspot.com/o/watsonstudio.svg?alt=media&token=5a22819b-ca68-4d99-b03a-15fff17c38d4">
+<img height="40px" src="https://firebasestorage.googleapis.com/v0/b/test-1-c068e.appspot.com/o/git.png?alt=media&token=c841510d-f231-426b-8e09-3c4927015184">
+<img height="40px" src="https://firebasestorage.googleapis.com/v0/b/test-1-c068e.appspot.com/o/github.png?alt=media&token=3a30314d-cb01-40fd-8b36-55f8d318a7f3">
+<img height="40px" src="https://firebasestorage.googleapis.com/v0/b/test-1-c068e.appspot.com/o/html.png?alt=media&token=37cbeaf1-6f13-4d63-a60a-0a83473ca0f1">
+<img height="40px" src="https://firebasestorage.googleapis.com/v0/b/test-1-c068e.appspot.com/o/css.png?alt=media&token=81435545-45ad-444f-9ff8-d1f66c849cf7">
+<img height="40px" src="https://firebasestorage.googleapis.com/v0/b/test-1-c068e.appspot.com/o/bootstrap.png?alt=media&token=210e55f3-8721-4901-8c67-b3befa7ae994">
+<img height="40px" src="https://firebasestorage.googleapis.com/v0/b/test-1-c068e.appspot.com/o/django.png?alt=media&token=c266bf8b-6d2d-4092-8f03-2734dd2380fe">
 </p><br>
 
 <h2 align="center">Profile stats</h2>
@@ -65,9 +66,5 @@
 <a href="https://www.hackerrank.com/Eternal_"><img src="https://img.shields.io/badge/-HackerRank-5e5e5e?style=for-the-badge&logo=Hackerrank"></a>
 <a href="https://www.google.com/maps/place/Ravi+Nagar,+Gobind+Pura,+Haryana+135002/@30.1463269,77.286907,18z/data=!4m2!3m1!1s0x390efbd7db3fb9fb:0x5f3fd8e81a2aba1e"><img src="https://img.shields.io/badge/-Google_Maps-5e5e5e?style=for-the-badge&logo=Google-Maps"></a>
 </p>
-
-
-
 <hr>
-
 <p align="center"><img height="40px" src="https://forthebadge.com/images/badges/built-with-love.svg"></p>
