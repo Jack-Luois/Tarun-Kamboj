@@ -43,18 +43,9 @@
 
 <p align="center">
   <img width="130px" src="https://firebasestorage.googleapis.com/v0/b/test-1-c068e.appspot.com/o/75completed.gif?alt=media&token=2ba655c4-3055-42f5-afbe-11bc89d75f4c">
-</p>
-
-<table align="center">
-  <tr>
-    <th>
-      <img width="390px" align="left" alt="Eternal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Tarun-Kamboj&show_icons=true&hide_border=true&count_private=true&bg_color=ffffff00&text_color=2e7eff&icon_color=2e7eff" />
-    </th>
-    <th>
-      <img width="390px" align="left" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarun-Kamboj&layout=compact&hide_border=true&bg_color=ffffff00&text_color=2e7eff" />
-    </th>
-  </tr>
-</table><br>
+</p> <br>
+<img width="380px" align="center" alt="Eternal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Tarun-Kamboj&show_icons=true&hide_border=true&count_private=true&bg_color=ffffff00&text_color=2e7eff&icon_color=2e7eff" />
+<img width="380px" align="center" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarun-Kamboj&layout=compact&hide_border=true&bg_color=ffffff00&text_color=2e7eff" />
 
 <h2 align="center">Find me using</h2>
 
