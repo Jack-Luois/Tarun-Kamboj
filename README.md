@@ -41,12 +41,11 @@
 
 <h2 align="center">Profile stats</h2>
 
-<p align="center">
-  <img width="130px" src="https://firebasestorage.googleapis.com/v0/b/test-1-c068e.appspot.com/o/75completed.gif?alt=media&token=2ba655c4-3055-42f5-afbe-11bc89d75f4c">
-</p> <br>
+<br>
 <p align="center">
   <img height="180px" alt="Eternal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Tarun-Kamboj&show_icons=true&hide_border=true&count_private=true&bg_color=ffffff00&text_color=2e7eff&icon_color=2e7eff" />
   <img height="180px" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarun-Kamboj&layout=compact&hide_border=true&bg_color=ffffff00&text_color=2e7eff" />
+  <img height="200px" alt="Eternal's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Tarun-Kamboj&background=ffffff00&hide_border=true&stroke=2e7eff&ring=da5b0b&fire=da5b0b&currStreakNum=2e7eff&sideNums=2e7eff&currStreakLabel=2e7eff&sideLabels=2e7eff&dates=2e7eff" />
 </p>
 
 <h2 align="center">Find me using</h2>
