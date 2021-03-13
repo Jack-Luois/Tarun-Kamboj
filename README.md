@@ -4,15 +4,15 @@
 
 <p align="center"><a href="https://tarun-kamboj.github.io/"><img src="https://firebasestorage.googleapis.com/v0/b/test-1-c068e.appspot.com/o/websurfing.gif?alt=media&token=9a3dcf2e-3b72-45c5-969f-14ebbc74b353" width="400px"></a></p>
 
-<h2 align="center">What i do?</h2>
+<h1 align="center">What i do?</h1>
 
-<h3 align="center">1. Full stack web development</h3>
+<h2 align="center">1. Full stack web development</h2>
 <p align="center"><a href="https://tarun-kamboj.github.io/"><img src="https://firebasestorage.googleapis.com/v0/b/test-1-c068e.appspot.com/o/webd.gif?alt=media&token=ebcd8be0-2145-4caf-9b5e-7d4661f68ba0" width="500px"></a></p>
 
-<h3 align="center">2. Data science</h3>
+<h2 align="center">2. Data science</h2>
 <p align="center"><a href="https://tarun-kamboj.github.io/"><img src="https://firebasestorage.googleapis.com/v0/b/test-1-c068e.appspot.com/o/datascience.gif?alt=media&token=4203b24f-e55d-4f86-b974-fd774267d906" width="400px"></a></p><br>
 
-<h2 align="center">Tools i use</h2>
+<h1 align="center">Tools i use</h1>
 
 <p align="center">
 <img height="40px" src="https://firebasestorage.googleapis.com/v0/b/test-1-c068e.appspot.com/o/python.svg?alt=media&token=d52a215a-04c3-437d-b991-7ec9323fe20f">
@@ -39,7 +39,7 @@
 <img height="40px" src="https://firebasestorage.googleapis.com/v0/b/test-1-c068e.appspot.com/o/django.png?alt=media&token=c266bf8b-6d2d-4092-8f03-2734dd2380fe">
 </p><br>
 
-<h2 align="center">Profile stats</h2>
+<h1 align="center">Profile stats</h1>
 
 <br>
 <p align="center">
@@ -48,7 +48,7 @@
   <img height="200px" alt="Eternal's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Tarun-Kamboj&background=ffffff00&hide_border=true&stroke=2e7eff&ring=da5b0b&fire=da5b0b&currStreakNum=2e7eff&sideNums=2e7eff&currStreakLabel=2e7eff&sideLabels=2e7eff&dates=2e7eff" />
 </p>
 
-<h2 align="center">Find me using</h2>
+<h1 align="center">Find me using</h1>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/kambojtarun"><img src="https://img.shields.io/badge/-LinkedIn-5e5e5e?style=for-the-badge&logo=LinkedIn"></a>
