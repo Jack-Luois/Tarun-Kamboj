@@ -43,20 +43,20 @@
 
 <br>
 <p align="center">
-  <img height="180px" alt="Eternal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Tarun-Kamboj&show_icons=true&hide_border=true&count_private=true&bg_color=ffffff00&text_color=2e7eff&icon_color=2e7eff" />
-  <img height="180px" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarun-Kamboj&layout=compact&hide_border=true&bg_color=ffffff00&text_color=2e7eff" />
-  <img height="200px" alt="Eternal's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Tarun-Kamboj&background=ffffff00&hide_border=true&stroke=2e7eff&ring=da5b0b&fire=da5b0b&currStreakNum=2e7eff&sideNums=2e7eff&currStreakLabel=2e7eff&sideLabels=2e7eff&dates=2e7eff" />
+<img height="180px" alt="Eternal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Tarun-Kamboj&show_icons=true&hide_border=true&count_private=true&bg_color=ffffff00&text_color=2e7eff&icon_color=2e7eff" />
+<img height="180px" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarun-Kamboj&layout=compact&hide_border=true&bg_color=ffffff00&text_color=2e7eff" />
+<img height="200px" alt="Eternal's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Tarun-Kamboj&background=ffffff00&hide_border=true&stroke=2e7eff&ring=da5b0b&fire=da5b0b&currStreakNum=2e7eff&sideNums=2e7eff&currStreakLabel=2e7eff&sideLabels=2e7eff&dates=2e7eff" />
 </p>
 
 <h1 align="center">Find me using</h1>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/kambojtarun"><img src="https://img.shields.io/badge/-LinkedIn-5e5e5e?style=for-the-badge&logo=LinkedIn"></a>
-<a href="mailto:kambojtarun02@gmail.com"><img src="https://img.shields.io/badge/-Gmail-5e5e5e?style=for-the-badge&logo=Gmail"></a>
-<a href="https://tarun-kamboj.github.io/"><img src="https://img.shields.io/badge/-Portfolio-5e5e5e?style=for-the-badge&logo=Opsgenie"></a>
-<a href="https://twitter.com/TarunKamboj_"><img src="https://img.shields.io/badge/-Twitter-5e5e5e?style=for-the-badge&logo=Twitter"></a>
-<a href="https://www.hackerrank.com/Eternal_"><img src="https://img.shields.io/badge/-HackerRank-5e5e5e?style=for-the-badge&logo=Hackerrank"></a>
-<a href="https://www.google.com/maps/place/Ravi+Nagar,+Gobind+Pura,+Haryana+135002/@30.1463269,77.286907,18z/data=!4m2!3m1!1s0x390efbd7db3fb9fb:0x5f3fd8e81a2aba1e"><img src="https://img.shields.io/badge/-Google_Maps-5e5e5e?style=for-the-badge&logo=Google-Maps"></a>
+<a target="_blank" href="https://www.linkedin.com/in/kambojtarun"><img src="https://img.shields.io/badge/-LinkedIn-5e5e5e?style=for-the-badge&logo=LinkedIn"></a>
+<a target="_blank" href="mailto:kambojtarun02@gmail.com"><img src="https://img.shields.io/badge/-Gmail-5e5e5e?style=for-the-badge&logo=Gmail"></a>
+<a target="_blank" href="https://tarun-kamboj.github.io/"><img src="https://img.shields.io/badge/-Portfolio-5e5e5e?style=for-the-badge&logo=Opsgenie"></a>
+<a target="_blank" href="https://twitter.com/TarunKamboj_"><img src="https://img.shields.io/badge/-Twitter-5e5e5e?style=for-the-badge&logo=Twitter"></a>
+<a target="_blank" href="https://www.hackerrank.com/Eternal_"><img src="https://img.shields.io/badge/-HackerRank-5e5e5e?style=for-the-badge&logo=Hackerrank"></a>
+<a target="_blank" href="https://www.google.com/maps/place/Ravi+Nagar,+Gobind+Pura,+Haryana+135002/@30.1463269,77.286907,18z/data=!4m2!3m1!1s0x390efbd7db3fb9fb:0x5f3fd8e81a2aba1e"><img src="https://img.shields.io/badge/-Google_Maps-5e5e5e?style=for-the-badge&logo=Google-Maps"></a>
 </p>
 <hr>
 <p align="center"><img height="40px" src="https://forthebadge.com/images/badges/built-with-love.svg"></p>
