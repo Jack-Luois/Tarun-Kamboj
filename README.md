@@ -48,7 +48,7 @@
 <img height="200px" alt="Eternal's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Tarun-Kamboj&background=ffffff00&hide_border=true&stroke=2e7eff&ring=da5b0b&fire=da5b0b&currStreakNum=2e7eff&sideNums=2e7eff&currStreakLabel=2e7eff&sideLabels=2e7eff&dates=2e7eff" />
 </p>
 
-<h1 align="center">Find me using</h1>
+<h1 align="center">Find me on</h1>
 
 <p align="center">
 <a target="_blank" href="https://www.linkedin.com/in/kambojtarun"><img src="https://img.shields.io/badge/-LinkedIn-5e5e5e?style=for-the-badge&logo=LinkedIn"></a>
