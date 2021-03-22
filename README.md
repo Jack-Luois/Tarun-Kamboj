@@ -45,8 +45,15 @@
 <p align="center">
 <img height="180px" alt="Eternal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Tarun-Kamboj&show_icons=true&hide_border=true&count_private=true&bg_color=ffffff00&text_color=2e7eff&icon_color=2e7eff" />
 <img height="180px" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarun-Kamboj&layout=compact&hide_border=true&bg_color=ffffff00&text_color=2e7eff" />
-<img height="200px" alt="Eternal's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Tarun-Kamboj&background=ffffff00&hide_border=true&stroke=2e7eff&ring=da5b0b&fire=da5b0b&currStreakNum=2e7eff&sideNums=2e7eff&currStreakLabel=2e7eff&sideLabels=2e7eff&dates=2e7eff" /><br>
-<img height="100px" src="https://github-profile-trophy.vercel.app/?username=Tarun-Kamboj&theme=darkhub&no-bg=true&margin-w=15&margin-h=15&no-frame=true">
+<img height="200px" alt="Eternal's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Tarun-Kamboj&background=ffffff00&hide_border=true&stroke=2e7eff&ring=da5b0b&fire=da5b0b&currStreakNum=2e7eff&sideNums=2e7eff&currStreakLabel=2e7eff&sideLabels=2e7eff&dates=2e7eff" /></p>
+
+<p align="center">
+<img height="125px" src="https://github-profile-trophy.vercel.app/?username=Tarun-Kamboj&title=Commit&theme=darkhub&no-bg=true&no-frame=true">
+<img height="125px" src="https://github-profile-trophy.vercel.app/?username=Tarun-Kamboj&title=Star&theme=darkhub&no-bg=true&no-frame=true">
+<img height="125px" src="https://github-profile-trophy.vercel.app/?username=Tarun-Kamboj&title=Repositories&theme=darkhub&no-bg=true&no-frame=true">
+<img height="125px" src="https://github-profile-trophy.vercel.app/?username=Tarun-Kamboj&title=PullRequest&theme=darkhub&no-bg=true&no-frame=true">
+<img height="125px" src="https://github-profile-trophy.vercel.app/?username=Tarun-Kamboj&title=Followers&theme=darkhub&no-bg=true&no-frame=true">
+<img height="125px" src="https://github-profile-trophy.vercel.app/?username=Tarun-Kamboj&title=Issues&theme=darkhub&no-bg=true&no-frame=true">
 </p>
 
 <h1 align="center">Find me on</h1>
