@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/-Full_Stack_web_developer-902eff?style=for-the-badge">
 </a></h3>
 
-<h1 align="center">Tools i use</h1>
+<h3 align="center">Tools i use</h3>
 
 <p align="center">
 <img height="40px" src="https://firebasestorage.googleapis.com/v0/b/test-1-c068e.appspot.com/o/python.svg?alt=media&token=d52a215a-04c3-437d-b991-7ec9323fe20f">
@@ -24,20 +24,20 @@
 <img height="40px" src="https://firebasestorage.googleapis.com/v0/b/test-1-c068e.appspot.com/o/django.png?alt=media&token=c266bf8b-6d2d-4092-8f03-2734dd2380fe">
 </p><br>
 
-<h1 align="center">Profile stats</h1>
+<h3 align="center">Profile stats</h3>
 
 <br>
 <p align="center">
 <img height="180px" alt="Eternal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Tarun-Kamboj&show_icons=true&hide_border=true&count_private=true&bg_color=ffffff00&text_color=878787&icon_color=2e7eff" />
-<img height="200px" alt="Eternal's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Tarun-Kamboj&background=ffffff00&hide_border=true&stroke=878787&ring=2e7eff&fire=2e7eff&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787" />
-<br>
+<img height="180px" alt="Eternal's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Tarun-Kamboj&background=ffffff00&hide_border=true&stroke=878787&ring=2e7eff&fire=2e7eff&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787" />
+
 <img src="https://activity-graph.herokuapp.com/graph?username=Tarun-Kamboj&theme=dracula&bg_color=ffffff00&color=878787&line=2e7eff&point=ffffff00&area=true&hide_border=true">
 <!-- <img height="180px" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarun-Kamboj&layout=compact&hide_border=true&bg_color=ffffff00&text_color=878787" /> -->
 <!-- <br>
 <img height="125px" src="https://github-profile-trophy.vercel.app/?username=Tarun-Kamboj&theme=darkhub&no-bg=true&margin-w=15&margin-h=15&no-frame=true"> -->
 </p>
 
-<h1 align="center">Find me on</h1>
+<h3 align="center">Find me on</h3>
 
 <p align="center">
 <a target="_blank" href="https://www.linkedin.com/in/kambojtarun"><img src="https://img.shields.io/badge/-LinkedIn-5e5e5e?style=for-the-badge&logo=LinkedIn"></a>
