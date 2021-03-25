@@ -28,8 +28,8 @@
 
 <br>
 <p align="center">
-<img height="180px" width="370px" alt="Eternal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Tarun-Kamboj&show_icons=true&hide_border=true&count_private=true&bg_color=ffffff00&text_color=878787&icon_color=2e7eff" />
-<img height="180px" width="370px" alt="Eternal's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Tarun-Kamboj&background=ffffff00&hide_border=true&stroke=878787&ring=2e7eff&fire=2e7eff&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787" />
+<img width="370px" alt="Eternal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Tarun-Kamboj&show_icons=true&hide_border=true&count_private=true&bg_color=ffffff00&text_color=878787&icon_color=2e7eff" />
+<img width="370px" alt="Eternal's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Tarun-Kamboj&background=ffffff00&hide_border=true&stroke=878787&ring=2e7eff&fire=2e7eff&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787" />
 </p>
 <img src="https://activity-graph.herokuapp.com/graph?username=Tarun-Kamboj&theme=dracula&bg_color=ffffff00&color=878787&line=2e7eff&point=ffffff00&area=true&hide_border=true">
 <!-- <img height="180px" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarun-Kamboj&layout=compact&hide_border=true&bg_color=ffffff00&text_color=878787" /> -->
