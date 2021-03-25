@@ -1,16 +1,8 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Tarun-Kamboj&style=flat-square&color=4287f5"></p>
 
-<h1 align="center"> Hi <img height="35px" width="35px" src="https://firebasestorage.googleapis.com/v0/b/test-1-c068e.appspot.com/o/handwave.gif?alt=media&token=02502388-e6da-4708-96b6-0db24a897e76" /> my name is <a href="https://tarun-kamboj.github.io/">Tarun.</a></h1>
+<h1 align="center"> Hi <img height="35px" width="35px" src="https://firebasestorage.googleapis.com/v0/b/test-1-c068e.appspot.com/o/handwave.gif?alt=media&token=02502388-e6da-4708-96b6-0db24a897e76" /> my name is <a href="https://tarun-kamboj.github.io/">Tarun.</a><br> I'm a python programmer and a full stack web developer.</h1>
 
-<p align="center"><a href="https://tarun-kamboj.github.io/"><img src="https://firebasestorage.googleapis.com/v0/b/test-1-c068e.appspot.com/o/websurfing.gif?alt=media&token=9a3dcf2e-3b72-45c5-969f-14ebbc74b353" width="400px"></a></p>
-
-<h1 align="center">What i do?</h1>
-
-<h2 align="center">1. Full stack web development</h2>
-<p align="center"><a href="https://tarun-kamboj.github.io/"><img src="https://firebasestorage.googleapis.com/v0/b/test-1-c068e.appspot.com/o/webd.gif?alt=media&token=ebcd8be0-2145-4caf-9b5e-7d4661f68ba0" width="500px"></a></p>
-
-<h2 align="center">2. Data science</h2>
-<p align="center"><a href="https://tarun-kamboj.github.io/"><img src="https://firebasestorage.googleapis.com/v0/b/test-1-c068e.appspot.com/o/datascience.gif?alt=media&token=4203b24f-e55d-4f86-b974-fd774267d906" width="400px"></a></p><br>
+<p align="center"><a href="https://tarun-kamboj.github.io/"><img src="https://firebasestorage.googleapis.com/v0/b/test-1-c068e.appspot.com/o/pdd.gif?alt=media&token=372519b7-0f61-4c2c-bc21-11406482db9c" width="400px"></a></p>
 
 <h1 align="center">Tools i use</h1>
 
@@ -47,7 +39,7 @@
 <img height="180px" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarun-Kamboj&layout=compact&hide_border=true&bg_color=ffffff00&text_color=2e7eff" />
 <img height="200px" alt="Eternal's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Tarun-Kamboj&background=ffffff00&hide_border=true&stroke=2e7eff&ring=da5b0b&fire=da5b0b&currStreakNum=2e7eff&sideNums=2e7eff&currStreakLabel=2e7eff&sideLabels=2e7eff&dates=2e7eff" /><br>
 <img height="125px" src="https://github-profile-trophy.vercel.app/?username=Tarun-Kamboj&theme=darkhub&no-bg=true&margin-w=15&margin-h=15&no-frame=true">
-<img src="https://activity-graph.herokuapp.com/graph?username=Tarun-Kamboj&theme=dracula&bg_color=ffffff00&line=2e7eff&point=ffffff00&area=true&hide_border=true">
+<img src="https://activity-graph.herokuapp.com/graph?username=Tarun-Kamboj&theme=dracula&bg_color=ffffff00&color=5e5e5e&line=2e7eff&point=ffffff00&area=true&hide_border=true">
 </p>
 
 <h1 align="center">Find me on</h1>
