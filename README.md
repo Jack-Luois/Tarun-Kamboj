@@ -9,21 +9,6 @@
 <img src="https://img.shields.io/badge/-Full_Stack_web_developer-902eff?style=for-the-badge">
 </a></h3>
 
-<h3 align="center">Tools i use</h3>
-
-<p align="center">
-<img height="40px" src="https://firebasestorage.googleapis.com/v0/b/test-1-c068e.appspot.com/o/python.svg?alt=media&token=d52a215a-04c3-437d-b991-7ec9323fe20f">
-<img height="40px" src="https://firebasestorage.googleapis.com/v0/b/test-1-c068e.appspot.com/o/jupyter.png?alt=media&token=8b35d035-3645-4c5c-b31f-ae4940e8bf8a">
-<img height="40px" src="https://firebasestorage.googleapis.com/v0/b/test-1-c068e.appspot.com/o/folium.png?alt=media&token=79c79816-c348-41f9-91a2-dc764254a6ac">
-<img height="40px" src="https://firebasestorage.googleapis.com/v0/b/test-1-c068e.appspot.com/o/firebase.png?alt=media&token=4e23a5b2-2ba4-4131-a5a7-a841968cdc1e">
-<img height="40px" src="https://firebasestorage.googleapis.com/v0/b/test-1-c068e.appspot.com/o/git.png?alt=media&token=c841510d-f231-426b-8e09-3c4927015184">
-<img height="40px" src="https://firebasestorage.googleapis.com/v0/b/test-1-c068e.appspot.com/o/github.png?alt=media&token=3a30314d-cb01-40fd-8b36-55f8d318a7f3">
-<img height="40px" src="https://firebasestorage.googleapis.com/v0/b/test-1-c068e.appspot.com/o/html.png?alt=media&token=37cbeaf1-6f13-4d63-a60a-0a83473ca0f1">
-<img height="40px" src="https://firebasestorage.googleapis.com/v0/b/test-1-c068e.appspot.com/o/css.png?alt=media&token=81435545-45ad-444f-9ff8-d1f66c849cf7">
-<img height="40px" src="https://firebasestorage.googleapis.com/v0/b/test-1-c068e.appspot.com/o/bootstrap.png?alt=media&token=210e55f3-8721-4901-8c67-b3befa7ae994">
-<img height="40px" src="https://firebasestorage.googleapis.com/v0/b/test-1-c068e.appspot.com/o/django.png?alt=media&token=c266bf8b-6d2d-4092-8f03-2734dd2380fe">
-</p><br>
-
 <h3 align="center">Profile stats</h3>
 
 <br>
