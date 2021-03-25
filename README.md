@@ -33,8 +33,8 @@
 <br>
 <img src="https://activity-graph.herokuapp.com/graph?username=Tarun-Kamboj&theme=dracula&bg_color=ffffff00&color=878787&line=2e7eff&point=ffffff00&area=true&hide_border=true">
 <!-- <img height="180px" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tarun-Kamboj&layout=compact&hide_border=true&bg_color=ffffff00&text_color=878787" /> -->
-<br>
-<img height="125px" src="https://github-profile-trophy.vercel.app/?username=Tarun-Kamboj&theme=darkhub&no-bg=true&margin-w=15&margin-h=15&no-frame=true">
+<!-- <br>
+<img height="125px" src="https://github-profile-trophy.vercel.app/?username=Tarun-Kamboj&theme=darkhub&no-bg=true&margin-w=15&margin-h=15&no-frame=true"> -->
 </p>
 
 <h1 align="center">Find me on</h1>
