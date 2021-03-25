@@ -1,6 +1,7 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Tarun-Kamboj&style=flat-square&color=4287f5"></p>
 
-<h1 align="center"> Hi <img height="35px" width="35px" src="https://firebasestorage.googleapis.com/v0/b/test-1-c068e.appspot.com/o/handwave.gif?alt=media&token=02502388-e6da-4708-96b6-0db24a897e76" /> my name is <a href="https://tarun-kamboj.github.io/">Tarun.</a><br> I'm a python programmer and a full stack web developer.</h1>
+<h1 align="center"> Hi <img height="35px" width="35px" src="https://firebasestorage.googleapis.com/v0/b/test-1-c068e.appspot.com/o/handwave.gif?alt=media&token=02502388-e6da-4708-96b6-0db24a897e76" /> my name is <a href="https://tarun-kamboj.github.io/">Tarun.</a>
+<h3 align="center"> A Python Programmer and a Full Stack Web Developer.</h3>
 
 <p align="center"><a href="https://tarun-kamboj.github.io/"><img src="https://firebasestorage.googleapis.com/v0/b/test-1-c068e.appspot.com/o/pdd.gif?alt=media&token=372519b7-0f61-4c2c-bc21-11406482db9c" width="400px"></a></p>
 
