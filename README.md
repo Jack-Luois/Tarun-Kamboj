@@ -1,4 +1,3 @@
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Tarun-Kamboj&style=flat-square&color=4287f5"></p>
 
 <h1 align="center"><a href="https://tarun-kamboj.github.io/">
 <img height="50px" src="https://img.shields.io/badge/-Tarun-5457ff?style=for-the-badge">
@@ -15,6 +14,7 @@
 <h2 align="center">Profile stats</h2>
 
 <br>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Tarun-Kamboj&style=flat-square&color=4287f5"></p>
 <p align="center">
 <img width="370px" alt="Eternal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Tarun-Kamboj&show_icons=true&hide_border=true&count_private=true&bg_color=ffffff00&text_color=878787&icon_color=2e7eff" />
 <img width="370px" alt="Eternal's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Tarun-Kamboj&background=ffffff00&hide_border=true&stroke=878787&ring=2e7eff&fire=2e7eff&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787" />
@@ -33,4 +33,3 @@
 <a target="_blank" href="https://wa.me/919466416667"><img src="https://img.shields.io/badge/-WhatsApp-5e5e5e?style=for-the-badge&logo=WhatsApp"></a>
 <a target="_blank" href="https://www.google.com/maps/place/Ravi+Nagar,+Gobind+Pura,+Haryana+135002/@30.1463269,77.286907,18z/data=!4m2!3m1!1s0x390efbd7db3fb9fb:0x5f3fd8e81a2aba1e"><img src="https://img.shields.io/badge/-Google_Maps-5e5e5e?style=for-the-badge&logo=Google-Maps"></a>
 </p>
-<hr>
