@@ -2,17 +2,13 @@
 <p align="center"><a href="https://tarun-kamboj.github.io/">
 <img height="40px" src="https://img.shields.io/badge/-Tarun-5457ff?style=for-the-badge">
 <img height="40px" src="https://img.shields.io/badge/-Kamboj-7f54ff?style=for-the-badge">
-</a></p>
-  
+</a></p> 
 <p align="center"><a href="https://tarun-kamboj.github.io/"> 
 <img src="https://img.shields.io/badge/-A-4d79ff?style=for-the-badge">
 <img src="https://img.shields.io/badge/-Python_Developer-5457ff?style=for-the-badge">
 <img src="https://img.shields.io/badge/-and_a-7f54ff?style=for-the-badge">
 <img src="https://img.shields.io/badge/-Full_Stack_web_developer-902eff?style=for-the-badge">
 </a></p>
-
-<br>
-<p align="center"><img src="https://github.githubassets.com/images/modules/profile/profile-first-issue-dark.svg"></p>
 
 <h2 align="center">Profile stats</h2>
 
