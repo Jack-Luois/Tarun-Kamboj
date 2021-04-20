@@ -4,20 +4,20 @@
 <img height="40px" src="https://img.shields.io/badge/-Kamboj-ffffff?style=for-the-badge">
 </a></p> 
 <p align="center"><a href="https://tarun-kamboj.github.io/"> 
-<img src="https://img.shields.io/badge/-A-4d79ff?style=for-the-badge">
-<img src="https://img.shields.io/badge/-Python_Developer-5457ff?style=for-the-badge">
-<img src="https://img.shields.io/badge/-and_a-7f54ff?style=for-the-badge">
-<img src="https://img.shields.io/badge/-Full_Stack_web_developer-902eff?style=for-the-badge">
+<img src="https://img.shields.io/badge/-A-ffffff?style=for-the-badge">
+<img src="https://img.shields.io/badge/-Python_Developer-ffffff?style=for-the-badge">
+<img src="https://img.shields.io/badge/-and-ffffff?style=for-the-badge">
+<img src="https://img.shields.io/badge/-a-0d1117?style=for-the-badge">
+<img src="https://img.shields.io/badge/-Full_Stack_web_developer-0d1117?style=for-the-badge">
 </a></p>
 
 <p align="center">
-<a target="_blank" href="https://www.linkedin.com/in/kambojtarun"><img src="https://img.shields.io/badge/-LinkedIn-5e5e5e?style=for-the-badge&logo=LinkedIn"></a>
-<a target="_blank" href="mailto:kambojtarun02@gmail.com"><img src="https://img.shields.io/badge/-Gmail-5e5e5e?style=for-the-badge&logo=Gmail"></a>
-<a target="_blank" href="https://tarun-kamboj.github.io/"><img src="https://img.shields.io/badge/-Portfolio-5e5e5e?style=for-the-badge&logo=Opsgenie"></a>
-<a target="_blank" href="https://twitter.com/TarunKamboj_"><img src="https://img.shields.io/badge/-Twitter-5e5e5e?style=for-the-badge&logo=Twitter"></a>
-<a target="_blank" href="https://wa.me/919466416667"><img src="https://img.shields.io/badge/-WhatsApp-5e5e5e?style=for-the-badge&logo=WhatsApp"></a>
-<a target="_blank" href="https://discord.com/users/724826268645851157"><img src="https://img.shields.io/badge/-Discord-5e5e5e?style=for-the-badge&logo=Discord"></a>
-<a target="_blank" href="https://www.google.com/maps/place/Ravi+Nagar,+Gobind+Pura,+Haryana+135002/@30.1463269,77.286907,18z/data=!4m2!3m1!1s0x390efbd7db3fb9fb:0x5f3fd8e81a2aba1e"><img src="https://img.shields.io/badge/-Google_Maps-5e5e5e?style=for-the-badge&logo=Google-Maps"></a>
+<a target="_blank" href="https://www.linkedin.com/in/kambojtarun"><img src="https://img.shields.io/badge/--0d1117?style=for-the-badge&logo=LinkedIn"></a>
+<a target="_blank" href="mailto:kambojtarun02@gmail.com"><img src="https://img.shields.io/badge/--0d1117?style=for-the-badge&logo=Gmail"></a>
+<a target="_blank" href="https://twitter.com/TarunKamboj_"><img src="https://img.shields.io/badge/--0d1117?style=for-the-badge&logo=Twitter"></a>
+<a target="_blank" href="https://wa.me/919466416667"><img src="https://img.shields.io/badge/--0d1117?style=for-the-badge&logo=WhatsApp"></a>
+<a target="_blank" href="https://discord.com/users/724826268645851157"><img src="https://img.shields.io/badge/--0d1117?style=for-the-badge&logo=Discord"></a>
+<a target="_blank" href="https://www.google.com/maps/place/Ravi+Nagar,+Gobind+Pura,+Haryana+135002/@30.1463269,77.286907,18z/data=!4m2!3m1!1s0x390efbd7db3fb9fb:0x5f3fd8e81a2aba1e"><img src="https://img.shields.io/badge/--0d1117?style=for-the-badge&logo=Google-Maps"></a>
 </p>
 
 <h2 align="center">Profile stats</h2>
