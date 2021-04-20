@@ -1,12 +1,12 @@
 
 <p align="center"><a href="https://tarun-kamboj.github.io/">
 <img height="40px" src="https://img.shields.io/badge/-Tarun-0d1117?style=for-the-badge">
-<img height="40px" src="https://img.shields.io/badge/-Kamboj-ffffff?style=for-the-badge">
+<img height="40px" src="https://img.shields.io/badge/-Kamboj-4c8ed9?style=for-the-badge">
 </a></p> 
 <p align="center"><a href="https://tarun-kamboj.github.io/"> 
-<img src="https://img.shields.io/badge/-A-ffffff?style=for-the-badge">
-<img src="https://img.shields.io/badge/-Python_Developer-ffffff?style=for-the-badge">
-<img src="https://img.shields.io/badge/-and-ffffff?style=for-the-badge">
+<img src="https://img.shields.io/badge/-A-4c8ed9?style=for-the-badge">
+<img src="https://img.shields.io/badge/-Python_Developer-4c8ed9?style=for-the-badge">
+<img src="https://img.shields.io/badge/-and-4c8ed9?style=for-the-badge">
 <img src="https://img.shields.io/badge/-a-0d1117?style=for-the-badge">
 <img src="https://img.shields.io/badge/-Full_Stack_web_developer-0d1117?style=for-the-badge">
 </a></p>
