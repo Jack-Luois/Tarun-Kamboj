@@ -20,12 +20,12 @@
 <a target="_blank" href="https://www.google.com/maps/place/Ravi+Nagar,+Gobind+Pura,+Haryana+135002/@30.1463269,77.286907,18z/data=!4m2!3m1!1s0x390efbd7db3fb9fb:0x5f3fd8e81a2aba1e"><img height="40px" src="https://img.shields.io/badge/--0d1117?style=for-the-badge&logo=Google-Maps"></a>
 </p>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=Tarun-Kamboj&style=flat-square&color=4287f5"></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Tarun-Kamboj&style=flat-square&color=4c8ed9"></p>
 <p align="center">
-<img width="370px" alt="Eternal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Tarun-Kamboj&custom_title=In+Data+We+Trust&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=2e7eff&text_color=878787&icon_color=2e7eff&cache_seconds=1800" />
-<img width="370px" alt="Eternal's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Tarun-Kamboj&background=00000000&hide_border=true&stroke=878787&ring=296dda&fire=296dda&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787" />
+<img width="370px" alt="Eternal's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Tarun-Kamboj&custom_title=In+Data+We+Trust&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=58a6fe&text_color=878787&icon_color=58a6fe&cache_seconds=1800" />
+<img width="370px" alt="Eternal's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Tarun-Kamboj&background=00000000&hide_border=true&stroke=878787&ring=4c8ed9&fire=4c8ed9&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787" />
 </p>
-<p><img src="https://activity-graph.herokuapp.com/graph?username=Tarun-Kamboj&theme=dracula&bg_color=00000000&color=878787&line=296dda&point=00000000&area=true&hide_border=true"></p>
+<p><img src="https://activity-graph.herokuapp.com/graph?username=Tarun-Kamboj&theme=dracula&bg_color=00000000&color=878787&line=4c8ed9&point=00000000&area=true&hide_border=true"></p>
 
 <p align="center">
 <a target="_blank" href="https://github.com/Tarun-Kamboj/Language_Translator_Webapp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Tarun-Kamboj&repo=Language_Translator_Webapp&title_color=58a6fe&text_color=8b949e&icon_color=8b949e&bg_color=00000000&cache_seconds=1800"></a>
