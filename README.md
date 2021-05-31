@@ -9,12 +9,11 @@
     <img src="https://img.shields.io/badge/-Full_Stack_web_developer-0d1117?style=for-the-badge">
   </a><br>
   <a href="https://www.linkedin.com/in/kambojtarun"><img height="40px" src="https://img.shields.io/badge/--0d1117?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2"></a>
+  <a href="https://Tarun-Kamboj.github.io"><img height="40px" src="https://img.shields.io/badge/--0d1117?style=for-the-badge&logo=Google-Earth"></a>
   <a href="mailto:kambojtarun02@gmail.com"><img height="40px" src="https://img.shields.io/badge/--0d1117?style=for-the-badge&logo=Gmail"></a>
-  <a href="https://twitter.com/TarunKamboj_"><img height="40px" src="https://img.shields.io/badge/--0d1117?style=for-the-badge&logo=Twitter"></a>
   <a href="https://wa.me/919466416667"><img height="40px" src="https://img.shields.io/badge/--0d1117?style=for-the-badge&logo=WhatsApp"></a>
   <a href="https://discord.com/users/724826268645851157"><img height="40px" src="https://img.shields.io/badge/--0d1117?style=for-the-badge&logo=Discord"></a>
-  <a href="https://www.google.com/maps/place/Ravi+Nagar,+Gobind+Pura,+Haryana+135002/@30.1463269,77.286907,18z/data=!4m2!3m1!1s0x390efbd7db3fb9fb:0x5f3fd8e81a2aba1e">
-    <img height="40px" src="https://img.shields.io/badge/--0d1117?style=for-the-badge&logo=Google-Maps"></a>
+  <a href="https://twitter.com/TarunKamboj_"><img height="40px" src="https://img.shields.io/badge/--0d1117?style=for-the-badge&logo=Twitter"></a>
 </p>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Tarun-Kamboj&style=flat-square&color=4c8ed9"><br><br>
