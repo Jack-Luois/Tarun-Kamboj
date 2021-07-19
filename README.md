@@ -15,8 +15,8 @@
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Tarun-Kamboj&style=flat-square&color=39d353"><br><br>
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tarun-Kamboj&theme=github_dark"><br><br>
-<img width="410px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tarun-Kamboj&theme=github_dark">
-<img width="410px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tarun-Kamboj&theme=github_dark">
+<img width="415px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tarun-Kamboj&theme=github_dark">
+<img width="415px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tarun-Kamboj&theme=github_dark">
 </p>
 <h1 align="center"> Streak Stats 🔥</h1>
 <p align="center">
