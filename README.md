@@ -22,7 +22,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tarun-Kamboj&background=00000000&hide_border=true&stroke=878787&ring=40c463&fire=40c463&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787">
 <img src="https://activity-graph.herokuapp.com/graph?username=Tarun-Kamboj&theme=dracula&bg_color=00000000&color=878787&line=40c463&point=00000000&area=true&area_color=40c463&hide_border=true">
 </p>
-<h1 align="center"> Featured Image 🌌</h1>
+<h1 align="center"> Featured Image 🌃</h1>
 <p align="center">
 <img src="https://lh3.googleusercontent.com/K4hyLgs2VZg9cRFBxVR3LpNrwyKelcsZDUGC0LlvDpxEYVnIneaTa0EyPSE-xM8G8C5KDf7cwfZuGk0v5XHZjHmVZvcGk7YWt__R-IRQ42j2_smzhDQgQflQm6HPyd1NcT3S0InfnQ=w2400">
 </p>
