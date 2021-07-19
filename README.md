@@ -1,11 +1,11 @@
 <p align="center"><br><br>
 <a href="https://tarun-kamboj.github.io/"><img src="https://readme-typing-svg.herokuapp.com/?font=Zen+Tokyo+Zoo&color=E1E1E1&size=50&center=true&vCenter=true&width=1000&height=100&lines=HELLO+%F0%9F%91%8B+MY+NAME+IS+TARUN.;I+AM+A+PYTHON+DEVELOPER;AND+A+FULL+STACK+WEB+DEVELOPER.;FEEL+FREE+TO+GET+IN+TOUCH+%F0%9F%98%84"></a><br><br>
-<a href="https://www.linkedin.com/in/kambojtarun"><img height="40px" src="https://img.shields.io/badge/--0d1117?style=for-the-badge&logo=LinkedIn&logoColor=0A66C2"></a>
-<a href="https://Tarun-Kamboj.github.io"><img height="40px" src="https://img.shields.io/badge/--0d1117?style=for-the-badge&logo=Google-Earth&logoColor=39d353"></a>
-<a href="mailto:kambojtarun02@gmail.com"><img height="40px" src="https://img.shields.io/badge/--0d1117?style=for-the-badge&logo=Gmail"></a>
-<a href="https://discord.com/users/724826268645851157"><img height="40px" src="https://img.shields.io/badge/--0d1117?style=for-the-badge&logo=Discord"></a>
-<a href="https://wa.me/919466416667"><img height="40px" src="https://img.shields.io/badge/--0d1117?style=for-the-badge&logo=WhatsApp"></a>
-<a href="https://twitter.com/TarunKamboj_"><img height="40px" src="https://img.shields.io/badge/--0d1117?style=for-the-badge&logo=Twitter"></a>
+<a href="https://www.linkedin.com/in/kambojtarun"><img height="40px" src="Images/linkedin.png"></a>
+<a href="https://Tarun-Kamboj.github.io"><img height="40px" src="Images/portfolio.png"></a>
+<a href="mailto:kambojtarun02@gmail.com"><img height="40px" src="Images/gmail.png"></a>
+<a href="https://discord.com/users/724826268645851157"><img height="40px" src="Images/discord.png"></a>
+<a href="https://wa.me/919466416667"><img height="40px" src="Images/whatsapp.png"></a>
+<a href="https://twitter.com/TarunKamboj_"><img height="40px" src="Images/twitter.png"></a>
 </p>
 <p align="center"><br>
 <img src="https://github.com/Tarun-Kamboj/Tarun-Kamboj/blob/output/github-contribution-grid-snake.svg"><br><br>
