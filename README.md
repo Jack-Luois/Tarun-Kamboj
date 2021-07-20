@@ -24,5 +24,5 @@
 </p>
 <h1 align="center"> Featured Image 🌃</h1>
 <p align="center">
-<img src="https://lh3.googleusercontent.com/K4hyLgs2VZg9cRFBxVR3LpNrwyKelcsZDUGC0LlvDpxEYVnIneaTa0EyPSE-xM8G8C5KDf7cwfZuGk0v5XHZjHmVZvcGk7YWt__R-IRQ42j2_smzhDQgQflQm6HPyd1NcT3S0InfnQ=w2400">
+<a href="https://photos.app.goo.gl/HLJEwmGp2xjiTR1m7"><img src="https://lh3.googleusercontent.com/lnuTOKrB_tbhQsDjKWzRiNEidqUQJV3OomP2oD0mAKxvGKj_zqCQye1XZHuMdrELXIfuD5j2R94k7mBfmGFuR_tng_h_97evGffsjdqzi9vQYlP14RFC_8ZUkTa2iS2wPqWyCanksA=w2400"></a>
 </p>
