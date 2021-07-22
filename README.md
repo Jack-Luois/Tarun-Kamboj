@@ -24,7 +24,7 @@
 </p>
 <h1 align="center"> Featured Image 🌃</h1>
 <p align="center">
-<a href="https://photos.app.goo.gl/1L759DgjJb7ye2eD7">
-<img src="https://lh3.googleusercontent.com/eEYHJ3-EWFGtEVFM0jDM3IUZJSPtabvPhBNGJX33uU3hhtkBJnmeNEM1PvsGMhFwUgSf3689WfcIOSIhPsBeGjKHkGE9pEm7mT4nvxfbPVJSKF8qFMg5wNJwvL3Yx3FW7NseeoUWCA=w2400"><br>
+<a href="https://photos.app.goo.gl/uFk2kc1dTvxG2Egt8">
+<img src="https://lh3.googleusercontent.com/U38BPZtx--vNkXw7-U2xSeegrBVL4yUcbJe_ns577sDpuqF_2x6fa0FlzmfFjEILRDqpv4Zs_u27eZ08tLOzJSxZuhZ9sfbUOK0d4u3bo45bE2HH-7WpC4GNvkAvTW4aPO6A5YIUKQ=w2400"><br>
 <img src="https://readme-typing-svg.herokuapp.com?font=Poiret+One&color=ACACAC&center=true&vCenter=true&width=300&height=25&lines=Earth+as+seen+from+ISS;Credits+%3A+NASA"></a>
 </p>
