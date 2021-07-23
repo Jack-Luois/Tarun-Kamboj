@@ -24,7 +24,7 @@
 </p>
 <h1 align="center"> Featured Image 🌃</h1>
 <p align="center">
-<a href="https://photos.app.goo.gl/uFk2kc1dTvxG2Egt8">
-<img src="https://lh3.googleusercontent.com/U38BPZtx--vNkXw7-U2xSeegrBVL4yUcbJe_ns577sDpuqF_2x6fa0FlzmfFjEILRDqpv4Zs_u27eZ08tLOzJSxZuhZ9sfbUOK0d4u3bo45bE2HH-7WpC4GNvkAvTW4aPO6A5YIUKQ=w2400"><br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Poiret+One&color=ACACAC&center=true&vCenter=true&width=300&height=25&lines=Earth+as+seen+from+ISS;Credits+%3A+NASA"></a>
+<a href="https://photos.app.goo.gl/Ng8WjtxqQZ6UEFhv6">
+<img src="https://lh3.googleusercontent.com/obaPzM6hNvSUz8Hl6gLUEeiE2BE39zh55w14fbRpCHP3shapj0WG3sQFRj_By-DNYDS_8g2HkNVxel7jbNzIx-8gvGzDt12d8w_1PvlRb9IOoNtgyJXHxEkQIwjF0x_YGGNpGhydog=w2400"><br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poiret+One&color=ACACAC&center=true&vCenter=true&width=400&height=25&lines=Real+Image+of+Earth's+Moon;Credits+%3A+Don't+remember+from+where+I+got+this"></a>
 </p>
