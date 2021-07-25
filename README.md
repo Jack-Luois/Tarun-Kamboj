@@ -1,7 +1,6 @@
 <p align="center">
-  <br>
   <img src="https://komarev.com/ghpvc/?username=Tarun-Kamboj&style=flat-square&color=40c463">
-  <br><br>
+  <br><br><br>
   <a href="https://tarun-kamboj.github.io/">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Zen+Tokyo+Zoo&color=E1E1E1&size=50&center=true&vCenter=true&width=1000&height=100&lines=HELLO+%F0%9F%91%8B+MY+NAME+IS+TARUN.;I+AM+A+PYTHON+DEVELOPER;AND+A+FULL+STACK+WEB+DEVELOPER.;FEEL+FREE+TO+GET+IN+TOUCH+%F0%9F%98%84">
   </a>
