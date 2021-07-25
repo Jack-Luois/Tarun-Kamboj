@@ -39,7 +39,7 @@
       <td align='center'><img title="HTML" src="https://user-images.githubusercontent.com/56023742/126892386-63d7ef29-682d-4139-b5ae-3e808657d58f.png" width="60"></td>
       <td align='center'><img title="CSS" src="https://user-images.githubusercontent.com/56023742/126892421-32c00e50-4848-4089-8fa1-e48a2c745f70.png" width="60"></td>
       <td align='center'><img title="Bootstrap" src="https://user-images.githubusercontent.com/56023742/126892445-47c91711-b0b7-4292-9b7b-a0b43b5a81b4.png" width="60"></td>
-      <td align='center'><img title="Django" src="https://user-images.githubusercontent.com/56023742/126892479-58f1fa70-ff10-4f24-8419-4c44559d6425.png" width="50"></td>
+      <td align='center'><img title="Django" src="https://user-images.githubusercontent.com/56023742/126892479-58f1fa70-ff10-4f24-8419-4c44559d6425.png" height="50"></td>
     </tr>
     <tr>
       <td align='center'><img title="MarkDown" src="https://user-images.githubusercontent.com/56023742/126893280-d216a708-781d-4182-8c1b-50c9226b757f.png" width="60"></td>
@@ -70,7 +70,7 @@
 <h1 align="center"> Streak Stats <img src="https://user-images.githubusercontent.com/56023742/126890466-be3202b5-4ba5-48bb-9676-5c6c08a91f57.png" height="35px"></h1>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tarun-Kamboj&background=00000000&hide_border=true&stroke=878787&ring=40c463&fire=40c463&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787">
-  <!-- <img src="https://activity-graph.herokuapp.com/graph?username=Tarun-Kamboj&theme=dracula&bg_color=00000000&color=878787&line=40c463&point=00000000&area=true&area_color=40c463&hide_border=true"> -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=Tarun-Kamboj&theme=dracula&bg_color=00000000&color=878787&line=40c463&point=00000000&area=true&area_color=40c463&hide_border=true">
 </p>
 <h1 align="center"> Featured Image <img src="https://user-images.githubusercontent.com/56023742/126891034-da08a56a-3deb-431b-b917-f58d1c110e0d.png" height="35px"></h1>
 <p align="center">
