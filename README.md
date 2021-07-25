@@ -39,7 +39,7 @@
       <td align='center'><img title="HTML" src="https://user-images.githubusercontent.com/56023742/126892386-63d7ef29-682d-4139-b5ae-3e808657d58f.png" width="60"></td>
       <td align='center'><img title="CSS" src="https://user-images.githubusercontent.com/56023742/126892421-32c00e50-4848-4089-8fa1-e48a2c745f70.png" width="60"></td>
       <td align='center'><img title="Bootstrap" src="https://user-images.githubusercontent.com/56023742/126892445-47c91711-b0b7-4292-9b7b-a0b43b5a81b4.png" width="60"></td>
-      <td align='center'><img title="Django" src="https://user-images.githubusercontent.com/56023742/126892479-58f1fa70-ff10-4f24-8419-4c44559d6425.png" height="50"></td>
+      <td align='center'><img title="Django" src="https://user-images.githubusercontent.com/56023742/126892479-58f1fa70-ff10-4f24-8419-4c44559d6425.png" width="47"></td>
     </tr>
     <tr>
       <td align='center'><img title="MarkDown" src="https://user-images.githubusercontent.com/56023742/126893280-d216a708-781d-4182-8c1b-50c9226b757f.png" width="60"></td>
