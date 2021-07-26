@@ -64,8 +64,8 @@
 <p align="center">
   <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tarun-Kamboj&theme=github_dark">
   <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tarun-Kamboj&theme=github_dark">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tarun-Kamboj&theme=github_dark">
+  <img width="415px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tarun-Kamboj&theme=github_dark">
+  <img width="415px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tarun-Kamboj&theme=github_dark">
 </p>
 <h1 align="center"> Streak Stats <img src="https://user-images.githubusercontent.com/56023742/126890466-be3202b5-4ba5-48bb-9676-5c6c08a91f57.png" height="35px"></h1>
 <p align="center">
