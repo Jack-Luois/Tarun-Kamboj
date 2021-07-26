@@ -69,14 +69,14 @@
 </p>
 <h1 align="center"> Streak Stats <img src="https://user-images.githubusercontent.com/56023742/126890466-be3202b5-4ba5-48bb-9676-5c6c08a91f57.png" height="35px"></h1>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tarun-Kamboj&background=00000000&hide_border=true&stroke=878787&ring=40c463&fire=40c463&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Tarun-Kamboj&theme=dracula&bg_color=00000000&color=878787&line=40c463&point=00000000&area=true&area_color=40c463&hide_border=true">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tarun-Kamboj&background=00000000&hide_border=true&stroke=8b949e&ring=40c463&fire=40c463&currStreakNum=8b949e&sideNums=8b949e&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e">
+  <img src="https://activity-graph.herokuapp.com/graph?username=Tarun-Kamboj&theme=dracula&bg_color=00000000&color=8b949e&line=40c463&point=00000000&area=true&area_color=40c463&hide_border=true">
 </p>
 <h1 align="center"> Featured Image <img src="https://user-images.githubusercontent.com/56023742/126891034-da08a56a-3deb-431b-b917-f58d1c110e0d.png" height="35px"></h1>
 <p align="center">
-  <a href="https://photos.app.goo.gl/xjRxe4MWiXn5r5vv6">
-    <img src="https://lh3.googleusercontent.com/S91HTZBPdQvehQ6ki3h7MAAhB6EKryDdzMdJjg1JrNyNDtf-j0Md7yE2z_mpXl6fdZogMJ77zylkKOGArvWMW901T78zFwQpoJvKRq6ejlyEKBBbyQCofu8u4zZKWtZVtHTmYTi8Xg=w2400">
+  <a href="https://photos.app.goo.gl/WUHL3wBGWkYnBh4h6">
+    <img src="https://lh3.googleusercontent.com/HPS6LFouXeDs46apmOQ9NI2u-g-5HSzzpvgyZ_J8Q6EkRpYGQqTuC7rkxHVAjl9gf6RnBsDUVXKCF2OT__cw4KXmyMHXsCKY4tAeJgoCTq-6UC4kKPVwTOyq9-82GkW80z8SxUfCSw=w2400">
     <br>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poiret+One&color=ACACAC&center=true&vCenter=true&width=400&height=25&lines=Close+up+shot+of+Jupiter;Credits+%3A+Juno+(NASA)">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poiret+One&color=8b949e&center=true&vCenter=true&width=400&height=25&lines=Close+up+shot+of+Earth+from+ISS;Credits+%3A+NASA">
   </a>
 </p>
