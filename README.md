@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=Tarun-Kamboj&style=flat-square&color=40c463">
   <br><br><br>
   <a href="https://tarun-kamboj.github.io/">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Zen+Tokyo+Zoo&color=E1E1E1&size=50&center=true&vCenter=true&width=1000&height=100&lines=HELLO+%F0%9F%91%8B+MY+NAME+IS+TARUN.;I+AM+A+PYTHON+DEVELOPER;AND+A+FULL+STACK+WEB+DEVELOPER.;FEEL+FREE+TO+GET+IN+TOUCH+%F0%9F%98%84">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=E1E1E1&size=60&center=true&vCenter=true&width=1050&height=100&lines=Hello+%F0%9F%91%8B+My+Name+Is+Tarun.;I+am+a+Python+Developer;And+a+FullL+Stack+Web+Developer.;Feel+Free+To+Get+In+Touch.+%F0%9F%98%84">
   </a>
   <br><br>
   <a href="https://Tarun-Kamboj.github.io">
