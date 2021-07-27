@@ -79,6 +79,6 @@
   <a href="https://photos.app.goo.gl/oFb1tu7YxqT7F53k6">
     <img src="https://lh3.googleusercontent.com/u5sCLtc1NEQQ3upWvILg7nHP72ZqMiGu5Vy_xVVwefVIidYaU3WBWZufNQzKJIKWvsoR2C4tebK3hIWxreMe2gCHCzlcVIlhn9cWke3CfZC5hS-cd_Uu9Je9mcFfcOa32mxvs98vmw=w2400">
     <br>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poiret+One&color=8b949e&center=true&vCenter=true&width=400&height=25&lines=Himalayas+as+seen+from+ISS;Credits+%3A+NASA">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poiret+One&color=8b949e&center=true&vCenter=true&width=400&height=25&lines=The+Great+Himalayas+as+seen+from+ISS;Credits+%3A+NASA">
   </a>
 </p>
