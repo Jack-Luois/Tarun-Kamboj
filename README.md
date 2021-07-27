@@ -29,6 +29,15 @@
   <img src="https://github.com/Tarun-Kamboj/Tarun-Kamboj/blob/output/github-contribution-grid-snake.svg">
   <br><br>
 </p>
+<h1 align="center"> GitHub Stats <img src="https://user-images.githubusercontent.com/56023742/126891095-13ec30d5-00d1-41bc-b332-7add1b5e6190.png" height="35px"></h1>
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tarun-Kamboj&theme=github_dark">
+  <br><br>
+  <img width="415px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tarun-Kamboj&theme=github_dark">
+  <img width="415px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tarun-Kamboj&theme=github_dark">
+  <img width="415px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tarun-Kamboj&theme=github_dark">
+  <img width="415px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tarun-Kamboj&theme=github_dark">
+</p>
 <h1 align="center"> Tools I Use <img src="https://user-images.githubusercontent.com/56023742/126891328-61ca9170-3965-43ff-8e80-56c13e5ef6ca.png" height="30px"></h1>
 <p align="center">
   <br>
@@ -60,13 +69,6 @@
   </table>
   <br>
 </p>
-<h1 align="center"> Profile Stats <img src="https://user-images.githubusercontent.com/56023742/126891095-13ec30d5-00d1-41bc-b332-7add1b5e6190.png" height="35px"></h1>
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tarun-Kamboj&theme=github_dark">
-  <br><br>
-  <img width="415px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tarun-Kamboj&theme=github_dark">
-  <img width="415px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tarun-Kamboj&theme=github_dark">
-</p>
 <h1 align="center"> Streak Stats <img src="https://user-images.githubusercontent.com/56023742/126890466-be3202b5-4ba5-48bb-9676-5c6c08a91f57.png" height="35px"></h1>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tarun-Kamboj&background=00000000&hide_border=true&stroke=8b949e&ring=40c463&fire=40c463&currStreakNum=8b949e&sideNums=8b949e&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e">
@@ -74,9 +76,9 @@
 </p>
 <h1 align="center"> Featured Image <img src="https://user-images.githubusercontent.com/56023742/126891034-da08a56a-3deb-431b-b917-f58d1c110e0d.png" height="35px"></h1>
 <p align="center">
-  <a href="https://photos.app.goo.gl/WUHL3wBGWkYnBh4h6">
-    <img src="https://lh3.googleusercontent.com/HPS6LFouXeDs46apmOQ9NI2u-g-5HSzzpvgyZ_J8Q6EkRpYGQqTuC7rkxHVAjl9gf6RnBsDUVXKCF2OT__cw4KXmyMHXsCKY4tAeJgoCTq-6UC4kKPVwTOyq9-82GkW80z8SxUfCSw=w2400">
+  <a href="https://photos.app.goo.gl/oFb1tu7YxqT7F53k6">
+    <img src="https://lh3.googleusercontent.com/u5sCLtc1NEQQ3upWvILg7nHP72ZqMiGu5Vy_xVVwefVIidYaU3WBWZufNQzKJIKWvsoR2C4tebK3hIWxreMe2gCHCzlcVIlhn9cWke3CfZC5hS-cd_Uu9Je9mcFfcOa32mxvs98vmw=w2400">
     <br>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poiret+One&color=8b949e&center=true&vCenter=true&width=400&height=25&lines=Close+up+shot+of+Earth+from+ISS;Credits+%3A+NASA">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poiret+One&color=8b949e&center=true&vCenter=true&width=400&height=25&lines=Himalayas+as+seen+from+ISS;Credits+%3A+NASA">
   </a>
 </p>
