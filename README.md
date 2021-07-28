@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=Tarun-Kamboj&style=flat-square&color=40c463">
   <br><br><br>
   <a href="https://tarun-kamboj.github.io/">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=E1E1E1&size=60&center=true&vCenter=true&width=1050&height=100&lines=Hello+%F0%9F%91%8B+My+Name+Is+Tarun.;I+am+a+Python+Developer;And+a+FullL+Stack+Web+Developer.;Feel+Free+To+Get+In+Touch.+%F0%9F%98%84">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=E1E1E1&size=60&center=true&vCenter=true&width=1050&height=100&lines=Hello+%F0%9F%91%8B+my+name+is+Tarun.;I+am+a+Python+Developer;And+a+Full+Stack+Web+Developer.;Feel+free+to+get+in+touch.+%F0%9F%98%84">
   </a>
   <br><br>
   <a href="https://Tarun-Kamboj.github.io">
@@ -76,9 +76,9 @@
 </p>
 <h1 align="center"> Featured Image <img src="https://user-images.githubusercontent.com/56023742/126891034-da08a56a-3deb-431b-b917-f58d1c110e0d.png" height="35px"></h1>
 <p align="center">
-  <a href="https://photos.app.goo.gl/oFb1tu7YxqT7F53k6">
-    <img src="https://lh3.googleusercontent.com/u5sCLtc1NEQQ3upWvILg7nHP72ZqMiGu5Vy_xVVwefVIidYaU3WBWZufNQzKJIKWvsoR2C4tebK3hIWxreMe2gCHCzlcVIlhn9cWke3CfZC5hS-cd_Uu9Je9mcFfcOa32mxvs98vmw=w2400">
+  <a href="https://photos.app.goo.gl/ksFiNermeRns5DV1A">
+    <img src="https://lh3.googleusercontent.com/qCCi_G9bMiqQX-jCfmdQVwcdtoX_tsVVxPxZvzLyBbIETlYjWpTxZaA7OPn98BwP2vs79tXnhR-At4N8Ol3IiGoeAGg9ddz5oG5-ntpC6WI11qPifpAxWWhzSAnk09jeCUK5WcH3Qg=w2400">
     <br>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poiret+One&color=8b949e&center=true&vCenter=true&width=400&height=25&lines=The+Great+Himalayas+as+seen+from+ISS;Credits+%3A+NASA">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poiret+One&color=8b949e&center=true&vCenter=true&width=500&height=25&lines=Illustration+of+Lunar+Crater+Radio+Telescope;Credits+%3A+NASA">
   </a>
 </p>
