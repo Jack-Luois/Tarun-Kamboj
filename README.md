@@ -76,8 +76,8 @@
 </p>
 <h1 align="center"> Featured Image <img src="https://user-images.githubusercontent.com/56023742/126891034-da08a56a-3deb-431b-b917-f58d1c110e0d.png" height="35px"></h1>
 <p align="center">
-  <a href="https://photos.app.goo.gl/ksFiNermeRns5DV1A">
-    <img src="https://lh3.googleusercontent.com/qCCi_G9bMiqQX-jCfmdQVwcdtoX_tsVVxPxZvzLyBbIETlYjWpTxZaA7OPn98BwP2vs79tXnhR-At4N8Ol3IiGoeAGg9ddz5oG5-ntpC6WI11qPifpAxWWhzSAnk09jeCUK5WcH3Qg=w2400">
+  <a href="https://photos.app.goo.gl/o9BJjN9dpPDmW3UDA">
+    <img src="https://lh3.googleusercontent.com/rRByxj2MvJObDchflGzgCeJthfV2ig3Uxwbkgk5i6PXCW9o7AC45V7V9p3zbTVvHWmEwzqbd9Kx5mDjtOLL7LH9acN9Id2I6F5YD429nkSEHmsKulifzrCNLk58JrciON49cV6Od6w=w2400">
     <br>
     <img src="https://readme-typing-svg.herokuapp.com?font=Poiret+One&color=8b949e&center=true&vCenter=true&width=500&height=25&lines=Illustration+of+Lunar+Crater+Radio+Telescope;Credits+%3A+NASA">
   </a>
