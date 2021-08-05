@@ -76,9 +76,9 @@
 </p>
 <h1 align="center"> Featured Image <img src="https://user-images.githubusercontent.com/56023742/126891034-da08a56a-3deb-431b-b917-f58d1c110e0d.png" height="35px"></h1>
 <p align="center">
-  <a href="https://photos.app.goo.gl/TFKwBR32yREgQ4Mx7">
-    <img src="https://lh3.googleusercontent.com/X7DPweMtsZtEMT7tmBO2N7xoN-j-BOQeSooyHBLG2xvi4LVTK-sMl0ZbADiZ_R7Ovx9vjkAVaBBHAxrfSoTAhuiJZqRfoW53T2K7qVckCv-gZ9d-x1AKl4b6ube_fBAFzlJ5U2lVLg=w2400">
+  <a href="https://photos.app.goo.gl/3cfYP3TEKkk4CWV28">
+    <img src="https://lh3.googleusercontent.com/T4qQlhaT_YqsrV1W-AptR7vfgdXdwLP8KAR-6Eie_sgX2omhjummHfn9r7Lsx9xdJP8KtIRZi6i8KKEvV5v2ra6Nlky66Ci_4I8vVhQ21GCLvQIE6vHj0B7_FP85Mzb9Cps20Akamw=w2400">
     <br>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poiret+One&color=8b949e&center=true&vCenter=true&width=500&height=25&lines=New+York+city+at+night+from+space;Credits+%3A+ISS">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poiret+One&color=8b949e&center=true&vCenter=true&width=500&height=25&lines=Taranaki+Volcano+of+New+Zealand;Credits+%3A+ISS">
   </a>
 </p>
