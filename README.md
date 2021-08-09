@@ -62,7 +62,7 @@
 </p>
 <h1 align="center"> GitHub Stats <img src="https://user-images.githubusercontent.com/56023742/126891095-13ec30d5-00d1-41bc-b332-7add1b5e6190.png" height="35px"></h1>
 <p align="center">
-  <img width="100%" src="https://github.com/Tarun-Kamboj/Tarun-Kamboj/blob/master/metrics/stats.svg">
+  <img width="80%" src="https://github.com/Tarun-Kamboj/Tarun-Kamboj/blob/master/metrics/stats.svg">
   <br><br>
   <img width="80%" src="https://github.com/Tarun-Kamboj/Tarun-Kamboj/blob/master/metrics/languages.svg">
   <img width="80%" src="https://github.com/Tarun-Kamboj/Tarun-Kamboj/blob/master/metrics/habits.svg">
