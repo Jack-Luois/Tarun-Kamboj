@@ -28,5 +28,4 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
           plugin_languages: yes
-          plugin_languages_ignored: jupyter notebook
-          plugin_languages_colors: "html:#40c463, ..."
+          plugin_languages_colors: "jupyter notebook:#40c463, ..."
