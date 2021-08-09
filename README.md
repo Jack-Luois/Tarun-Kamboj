@@ -79,6 +79,6 @@
   <a href="https://photos.app.goo.gl/3JxRLxLZUJDWXEgf8">
     <img src="https://lh3.googleusercontent.com/zvnnTAwBESdx-lsaobN0Jy6AHfeAoB2iPkaPrt4uNjsXOH26gwY3gMfYfv_Z08QPq1Hb_WiqB1me47WNYoaFQX0ypJHACTyCKdgRAruMlENmJQjJJB8dSC1SjSDQrN_gTodppCMoNg=w2400">
     <br>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poiret+One&color=8b949e&center=true&vCenter=true&width=500&height=25&lines=Volga+Delta+in+Russia+%26+Caspian+Sea;Credits+%3A+ISS">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poiret+One&color=8b949e&center=true&vCenter=true&width=500&height=25&lines=Volga+River+Delta+in+Russia+%26+Caspian+Sea;Credits+%3A+ISS">
   </a>
 </p>
