@@ -29,4 +29,4 @@ jobs:
           base: ""
           plugin_languages: yes
           plugin_languages_ignored: jupyter notebook
-          plugin_languages_colors: "0:#8b949e, javascript:#40c463, ..."
+          plugin_languages_colors: "html:#40c463, ..."
