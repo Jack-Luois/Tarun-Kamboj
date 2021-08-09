@@ -70,7 +70,7 @@
   <img width="100%" src="https://github.com/Tarun-Kamboj/Tarun-Kamboj/blob/master/metrics/isocalendar.svg">
   <img width="70%" src="https://github.com/Tarun-Kamboj/Tarun-Kamboj/blob/master/metrics/achievements.svg">
   <img width="90%" src="https://github.com/Tarun-Kamboj/Tarun-Kamboj/blob/master/metrics/reactions.svg">
-  <img width="100%" src="https://github.com/Tarun-Kamboj/Tarun-Kamboj/blob/master/metrics/website.svg">
+  <img width="80%" src="https://github.com/Tarun-Kamboj/Tarun-Kamboj/blob/master/metrics/website.svg">
 </p>
 <h1 align="center"> Featured Image <img src="https://user-images.githubusercontent.com/56023742/126891034-da08a56a-3deb-431b-b917-f58d1c110e0d.png" height="35px"></h1>
 <p align="center">
