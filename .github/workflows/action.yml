@@ -17,8 +17,7 @@ jobs:
           filename: metrics/stats.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          plugin_introduction: yes
-          plugin_lines: yes
+          base: header, activity, community, repositories
       # isocalendar
       - uses: lowlighter/metrics@latest
         with:
