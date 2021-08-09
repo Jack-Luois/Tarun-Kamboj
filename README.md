@@ -66,7 +66,7 @@
   <img width="100%" src="https://github.com/Tarun-Kamboj/Tarun-Kamboj/blob/master/metrics/habits.svg">
   <img width="100%" src="https://github.com/Tarun-Kamboj/Tarun-Kamboj/blob/master/metrics/issuesPRs.svg">
   <img width="100%" src="https://github.com/Tarun-Kamboj/Tarun-Kamboj/blob/master/metrics/isocalendar.svg">
-  <img width="70%" src="https://github.com/Tarun-Kamboj/Tarun-Kamboj/blob/master/metrics/achievements.svg">
+  <img align="right" width="70%" src="https://github.com/Tarun-Kamboj/Tarun-Kamboj/blob/master/metrics/achievements.svg">
   <img width="100%" src="https://github.com/Tarun-Kamboj/Tarun-Kamboj/blob/master/metrics/reactions.svg">
   <img width="100%" src="https://github.com/Tarun-Kamboj/Tarun-Kamboj/blob/master/metrics/website.svg">
 </p>
