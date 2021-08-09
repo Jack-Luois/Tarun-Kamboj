@@ -29,15 +29,6 @@
   <img src="https://github.com/Tarun-Kamboj/Tarun-Kamboj/blob/output/github-contribution-grid-snake.svg">
   <br><br>
 </p>
-<h1 align="center"> GitHub Stats <img src="https://user-images.githubusercontent.com/56023742/126891095-13ec30d5-00d1-41bc-b332-7add1b5e6190.png" height="35px"></h1>
-<p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tarun-Kamboj&theme=github_dark">
-  <br><br>
-  <img width="415px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tarun-Kamboj&theme=github_dark">
-  <img width="415px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tarun-Kamboj&theme=github_dark">
-  <img width="415px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tarun-Kamboj&theme=github_dark">
-  <img width="415px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tarun-Kamboj&theme=github_dark">
-</p>
 <h1 align="center"> Tools I Use <img src="https://user-images.githubusercontent.com/56023742/126891328-61ca9170-3965-43ff-8e80-56c13e5ef6ca.png" height="30px"></h1>
 <p align="center">
   <br>
@@ -69,10 +60,15 @@
   </table>
   <br>
 </p>
-<h1 align="center"> Streak Stats <img src="https://user-images.githubusercontent.com/56023742/126890466-be3202b5-4ba5-48bb-9676-5c6c08a91f57.png" height="35px"></h1>
+<h1 align="center"> GitHub Stats <img src="https://user-images.githubusercontent.com/56023742/126891095-13ec30d5-00d1-41bc-b332-7add1b5e6190.png" height="35px"></h1>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tarun-Kamboj&background=00000000&hide_border=true&stroke=8b949e&ring=40c463&fire=40c463&currStreakNum=8b949e&sideNums=8b949e&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Tarun-Kamboj&theme=dracula&bg_color=00000000&color=8b949e&line=40c463&point=00000000&area=true&area_color=40c463&hide_border=true">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tarun-Kamboj&theme=github_dark">
+  <br><br>
+  <img width="415px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tarun-Kamboj&theme=github_dark">
+  <img width="415px" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tarun-Kamboj&theme=github_dark">
+  <img width="415px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tarun-Kamboj&theme=github_dark">
+  <img width="415px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tarun-Kamboj&theme=github_dark">
+  <img width="100%" src="https://metrics.lecoq.io/Tarun-Kamboj?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&followup=1&pagespeed=1&isocalendar.duration=full-year&followup.sections=repositories&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=Asia%2FCalcutta">
 </p>
 <h1 align="center"> Featured Image <img src="https://user-images.githubusercontent.com/56023742/126891034-da08a56a-3deb-431b-b917-f58d1c110e0d.png" height="35px"></h1>
 <p align="center">
