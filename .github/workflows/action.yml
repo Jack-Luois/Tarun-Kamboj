@@ -11,6 +11,15 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
+      # stats
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/stats.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_introduction: yes
+          plugin_lines: yes
       # isocalendar
       - uses: lowlighter/metrics@latest
         with:
@@ -33,6 +42,7 @@ jobs:
           plugin_languages_aliases: "jupyter notebook:Python, ..."
           plugin_languages_sections: most-used, recently-used
           plugin_languages_details: bytes-size, percentage
+          plugin_languages_recent_days: 100
       # coding habits
       - uses: lowlighter/metrics@latest
         with:
@@ -75,3 +85,15 @@ jobs:
           base: ""
           plugin_pagespeed: yes
           plugin_pagespeed_url: .user.website
+      # reactions
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/reactions.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_reactions: yes
+          plugin_reactions_limit: 200 
+          plugin_reactions_limit_issues: 100  
+          plugin_reactions_days: 100
+          plugin_reactions_details: count, percentage
