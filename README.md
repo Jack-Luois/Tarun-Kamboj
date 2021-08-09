@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=Tarun-Kamboj&style=flat-square&color=40c463">
   <br><br><br>
   <a href="https://tarun-kamboj.github.io/">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=E1E1E1&size=60&center=true&vCenter=true&width=1050&height=100&lines=Hello+%F0%9F%91%8B+my+name+is+Tarun.;I+am+a+Python+Developer;And+a+Full+Stack+Web+Developer.;Feel+free+to+get+in+touch.+%F0%9F%98%84">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=E1E1E1&size=60&center=true&vCenter=true&width=900&height=100&lines=Hello+%F0%9F%91%8B+my+name+is+Tarun.;I+am+a+Python+Developer;And+a+Full+Stack+Web+Developer.;Feel+free+to+get+in+touch.+%F0%9F%98%84">
   </a>
   <br><br>
   <a href="https://Tarun-Kamboj.github.io">
@@ -23,9 +23,7 @@
   <a href="https://discord.com/users/724826268645851157">
     <img height="40px" title="Discord" src="https://user-images.githubusercontent.com/56023742/126891741-21bdce2d-3210-4efc-b9a8-3f8f16987225.png">
   </a>
-</p>
-<p align="center">
-  <br>
+  <br><br>
   <img src="https://github.com/Tarun-Kamboj/Tarun-Kamboj/blob/output/github-contribution-grid-snake.svg">
   <br><br>
 </p>
@@ -62,15 +60,15 @@
 </p>
 <h1 align="center"> GitHub Stats <img src="https://user-images.githubusercontent.com/56023742/126891095-13ec30d5-00d1-41bc-b332-7add1b5e6190.png" height="35px"></h1>
 <p align="center">
-  <img width="600px" src="https://github.com/Tarun-Kamboj/Tarun-Kamboj/blob/master/metrics/stats.svg">
+  <img width="100%" src="https://github.com/Tarun-Kamboj/Tarun-Kamboj/blob/master/metrics/stats.svg">
   <br><br>
-  <img width="600px" src="https://github.com/Tarun-Kamboj/Tarun-Kamboj/blob/master/metrics/languages.svg">
-  <img width="600px" src="https://github.com/Tarun-Kamboj/Tarun-Kamboj/blob/master/metrics/habits.svg">
-  <img width="600px" src="https://github.com/Tarun-Kamboj/Tarun-Kamboj/blob/master/metrics/issuesPRs.svg">
-  <img width="800px" src="https://github.com/Tarun-Kamboj/Tarun-Kamboj/blob/master/metrics/isocalendar.svg">
-  <img width="500px" src="https://github.com/Tarun-Kamboj/Tarun-Kamboj/blob/master/metrics/achievements.svg">
-  <img width="700px" src="https://github.com/Tarun-Kamboj/Tarun-Kamboj/blob/master/metrics/reactions.svg">
-  <img width="700px" src="https://github.com/Tarun-Kamboj/Tarun-Kamboj/blob/master/metrics/website.svg">
+  <img width="100%" src="https://github.com/Tarun-Kamboj/Tarun-Kamboj/blob/master/metrics/languages.svg">
+  <img width="100%" src="https://github.com/Tarun-Kamboj/Tarun-Kamboj/blob/master/metrics/habits.svg">
+  <img width="100%" src="https://github.com/Tarun-Kamboj/Tarun-Kamboj/blob/master/metrics/issuesPRs.svg">
+  <img width="100%" src="https://github.com/Tarun-Kamboj/Tarun-Kamboj/blob/master/metrics/isocalendar.svg">
+  <img width="70%" src="https://github.com/Tarun-Kamboj/Tarun-Kamboj/blob/master/metrics/achievements.svg">
+  <img width="100%" src="https://github.com/Tarun-Kamboj/Tarun-Kamboj/blob/master/metrics/reactions.svg">
+  <img width="100%" src="https://github.com/Tarun-Kamboj/Tarun-Kamboj/blob/master/metrics/website.svg">
 </p>
 <h1 align="center"> Featured Image <img src="https://user-images.githubusercontent.com/56023742/126891034-da08a56a-3deb-431b-b917-f58d1c110e0d.png" height="35px"></h1>
 <p align="center">
