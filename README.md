@@ -76,9 +76,9 @@
 </p>
 <h1 align="center"> Featured Image <img src="https://user-images.githubusercontent.com/56023742/126891034-da08a56a-3deb-431b-b917-f58d1c110e0d.png" height="35px"></h1>
 <p align="center">
-  <a href="https://photos.app.goo.gl/3cfYP3TEKkk4CWV28">
-    <img src="https://lh3.googleusercontent.com/T4qQlhaT_YqsrV1W-AptR7vfgdXdwLP8KAR-6Eie_sgX2omhjummHfn9r7Lsx9xdJP8KtIRZi6i8KKEvV5v2ra6Nlky66Ci_4I8vVhQ21GCLvQIE6vHj0B7_FP85Mzb9Cps20Akamw=w2400">
+  <a href="https://photos.app.goo.gl/3JxRLxLZUJDWXEgf8">
+    <img src="https://lh3.googleusercontent.com/zvnnTAwBESdx-lsaobN0Jy6AHfeAoB2iPkaPrt4uNjsXOH26gwY3gMfYfv_Z08QPq1Hb_WiqB1me47WNYoaFQX0ypJHACTyCKdgRAruMlENmJQjJJB8dSC1SjSDQrN_gTodppCMoNg=w2400">
     <br>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poiret+One&color=8b949e&center=true&vCenter=true&width=500&height=25&lines=Taranaki+Volcano+of+New+Zealand;Credits+%3A+ISS">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poiret+One&color=8b949e&center=true&vCenter=true&width=500&height=25&lines=Volga+Delta+in+Russia+%26+Caspian+Sea;Credits+%3A+ISS">
   </a>
 </p>
