@@ -29,15 +29,15 @@
 </p>
 <h1 align="center"> GitHub Stats <img src="https://user-images.githubusercontent.com/56023742/126891095-13ec30d5-00d1-41bc-b332-7add1b5e6190.png" height="35px"></h1>
 <p align="center">
-  <img width="100%" src="https://github.com/Tarun-Kamboj/Tarun-Kamboj/blob/master/metrics/stats.svg">
+  <img width="100%" src="metrics/stats.svg">
   <br><br>
-  <img width="100%" src="https://github.com/Tarun-Kamboj/Tarun-Kamboj/blob/master/metrics/isocalendar.svg">
-  <img width="100%" src="https://github.com/Tarun-Kamboj/Tarun-Kamboj/blob/master/metrics/habits.svg">
-  <img width="100%" src="https://github.com/Tarun-Kamboj/Tarun-Kamboj/blob/master/metrics/issuesPRs.svg">
-  <img align="right" width="80%" src="https://github.com/Tarun-Kamboj/Tarun-Kamboj/blob/master/metrics/achievements.svg">
-  <img width="100%" src="https://github.com/Tarun-Kamboj/Tarun-Kamboj/blob/master/metrics/languages.svg">
-  <img width="100%" src="https://github.com/Tarun-Kamboj/Tarun-Kamboj/blob/master/metrics/reactions.svg">
-  <img width="100%" src="https://github.com/Tarun-Kamboj/Tarun-Kamboj/blob/master/metrics/website.svg">
+  <img width="100%" src="metrics/isocalendar.svg">
+  <img width="100%" src="metrics/habits.svg">
+  <img width="100%" src="metrics/issuesPRs.svg">
+  <img align="right" width="80%" src="metrics/achievements.svg">
+  <img width="100%" src="metrics/languages.svg">
+  <img width="100%" src="metrics/reactions.svg">
+  <img width="100%" src="metrics/website.svg">
 </p>
 <h1 align="center"> Tools I Use <img src="https://user-images.githubusercontent.com/56023742/126891328-61ca9170-3965-43ff-8e80-56c13e5ef6ca.png" height="30px"></h1>
 <p align="center">
