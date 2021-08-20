@@ -72,9 +72,9 @@
 </p>
 <h1 align="center"> Featured Image <img src="https://user-images.githubusercontent.com/56023742/126891034-da08a56a-3deb-431b-b917-f58d1c110e0d.png" height="35px"></h1>
 <p align="center">
-  <a href="https://photos.app.goo.gl/P6o2XqzjqnPBCykr8">
-    <img src="https://lh3.googleusercontent.com/WzQaqAC_ma2TKya3clPcEsowLeeT44m2p3yXfaKgEBbXdDsC_W_3dhI-2ionRRIUY-bpQ8NzYIuIvpaaWPDhYOs7KHNs8MA5Ms4vJdnMLoqgtTeci-0o-__I7vSqiEQs4_EHheXvpQ=w2400">
+  <a href="https://photos.app.goo.gl/E48FPSpDRT3BQ6Px6">
+    <img src="https://lh3.googleusercontent.com/DvYV_4cYy3ouiukMGQsBZffVKDN8vztKZyJ-tfMke2FDPEn6xjM6VOi7qP4Dp8YTQYiuAwIk_qU9dxoXgOq_OUIm7eR-MLJdj6S-J6hbGUQGtU5-YOHI8zCR49eQUS5LcLcJ8jo7bA=w2400">
     <br>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poiret+One&color=8b949e&center=true&vCenter=true&width=500&height=25&lines=Weda+Island+Atoll+in+Indonesia;Credits+%3A+ISS">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poiret+One&color=8b949e&center=true&vCenter=true&width=500&height=25&lines=Storms+on+Jupiter;Credits+%3A+NASA">
   </a>
 </p>
