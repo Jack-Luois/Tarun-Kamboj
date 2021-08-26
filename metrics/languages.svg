@@ -1277,9 +1277,9 @@
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="443.65931397435867" height="8" fill="#58a6ff"/>
-                    <rect mask="url(#languages-bar)" x="443.65931397435867" y="0" width="7.149477528363651" height="8" fill="#ff79d1"/>
-                    <rect mask="url(#languages-bar)" x="450.80879150272233" y="0" width="5.307142739075022" height="8" fill="#9e91ff"/>
-                    <rect mask="url(#languages-bar)" x="456.1159342417974" y="0" width="2.289760363082206" height="8" fill="#ff9193"/>
+                    <rect mask="url(#languages-bar)" x="443.65931397435867" y="0" width="7.149477528363651" height="8" fill="#ff3a3a"/>
+                    <rect mask="url(#languages-bar)" x="450.80879150272233" y="0" width="5.307142739075022" height="8" fill="#7d6cff"/>
+                    <rect mask="url(#languages-bar)" x="456.1159342417974" y="0" width="2.289760363082206" height="8" fill="#ff48bd"/>
                     <rect mask="url(#languages-bar)" x="458.40569460487956" y="0" width="1.5943053951204496" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
@@ -1296,7 +1296,7 @@
                         </div>
                         <div class="field language details">
                             <div class="field">
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#9e91ff" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#7d6cff" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
                       CSS
                     </div>
                             <small>
@@ -1318,7 +1318,7 @@
                     <section>
                         <div class="field language details">
                             <div class="field">
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#ff79d1" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#ff3a3a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
                       HTML
                     </div>
                             <small>
@@ -1328,7 +1328,7 @@
                         </div>
                         <div class="field language details">
                             <div class="field">
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#ff9193" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#ff48bd" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
                       SCSS
                     </div>
                             <small>
