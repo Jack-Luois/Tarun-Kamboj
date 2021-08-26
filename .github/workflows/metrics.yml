@@ -36,7 +36,7 @@ jobs:
           base: ""
           plugin_languages: yes
           plugin_languages_ignored: python
-          plugin_languages_colors: "jupyter notebook:#58a6ff, ..."
+          plugin_languages_colors: "jupyter notebook:#58a6ff, html:#ff79d1, css:#9e91ff, scss:#FF9193, ..."
           plugin_languages_aliases: "jupyter notebook:Python, ..."
           plugin_languages_sections: most-used #, recently-used
           plugin_languages_details: bytes-size, percentage
