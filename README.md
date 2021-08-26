@@ -34,7 +34,7 @@
   <img width="100%" src="metrics/isocalendar.svg">
   <img width="100%" src="metrics/habits.svg">
   <img width="100%" src="metrics/issuesPRs.svg">
-  <img align="right" width="80%" src="metrics/achievements.svg">
+  <img width="100%" src="metrics/achievements.svg">
   <img width="100%" src="metrics/languages.svg">
   <img width="100%" src="metrics/reactions.svg">
   <img width="100%" src="metrics/website.svg">
