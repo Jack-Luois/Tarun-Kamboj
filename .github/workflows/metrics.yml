@@ -58,6 +58,17 @@ jobs:
           plugin_topics: yes
           plugin_topics_sort: stars
           plugin_topics_limit: 0
+      # mastered
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/mastered.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_topics: yes
+          plugin_topics_sort: random
+          plugin_topics_mode: mastered
+          plugin_topics_limit: 0 
       # coding habits
       - uses: lowlighter/metrics@latest
         with:
