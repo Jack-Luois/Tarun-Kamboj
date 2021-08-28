@@ -11,29 +11,33 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      # stats
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics/stats.svg
+          filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
+          # stats
           base: header, activity, community, repositories
-      # isocalendar
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics/isocalendar.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          base: ""
+          # isocalendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
-      # languages
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics/languages.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          base: ""
+          # coding habits
+          plugin_habits: yes
+          plugin_habits_from: 200 
+          plugin_habits_days: 100
+          plugin_habits_facts: yes 
+          plugin_habits_charts: yes
+          plugin_habits_trim: no
+          # issues & PRs
+          plugin_followup: yes
+          plugin_followup_sections: repositories, user
+          # achievements
+          plugin_achievements: yes
+          plugin_achievements_threshold: C       
+          plugin_achievements_secrets: yes   
+          plugin_achievements_limit: 0
+          plugin_achievements_display: compact
+          # languages
           plugin_languages: yes
           plugin_languages_ignored: python
           plugin_languages_colors: "jupyter notebook:#58a6ff, html:#ff3a3a, css:#7d6cff, scss:#ff48bd, ..."
@@ -41,58 +45,12 @@ jobs:
           plugin_languages_sections: most-used #, recently-used
           plugin_languages_details: bytes-size, percentage
           plugin_languages_recent_days: 100
-      # coding habits
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics/habits.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          base: ""
-          plugin_habits: yes
-          plugin_habits_from: 200 
-          plugin_habits_days: 100
-          plugin_habits_facts: yes 
-          plugin_habits_charts: yes
-          plugin_habits_trim: no
-      # issues & PRs
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics/issuesPRs.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          base: ""
-          plugin_followup: yes
-          plugin_followup_sections: repositories, user
-      # achievements
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics/achievements.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          base: ""
-          plugin_achievements: yes
-          plugin_achievements_threshold: C       
-          plugin_achievements_secrets: yes   
-          plugin_achievements_limit: 0
-          plugin_achievements_display: compact
-      # website
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics/website.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          base: ""
-          plugin_pagespeed: yes
-          plugin_pagespeed_url: .user.website
-      # reactions
-      - uses: lowlighter/metrics@latest
-        with:
-          filename: metrics/reactions.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          base: ""
+          # reactions
           plugin_reactions: yes
           plugin_reactions_limit: 200 
           plugin_reactions_limit_issues: 100  
           plugin_reactions_days: 100
           plugin_reactions_details: count, percentage
+          # website
+          plugin_pagespeed: yes
+          plugin_pagespeed_url: .user.website
