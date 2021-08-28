@@ -54,3 +54,11 @@ jobs:
           # website
           plugin_pagespeed: yes
           plugin_pagespeed_url: .user.website
+          # xkcd screenshot
+          plugin_screenshot: yes
+          plugin_screenshot_title: Featured Webcomic Image
+          plugin_screenshot_url: https://xkcd.com
+          plugin_screenshot_selector: "#comic img" 
+          plugin_screenshot_background: no 
+          # order
+          config_order: base, isocalendar, habits, followup, achievements, languages, reactions, pagespeed, screenshot
