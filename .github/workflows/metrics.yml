@@ -16,8 +16,8 @@ jobs:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          # stats , repositories
-          base: header, activity, community
+          # stats 
+          base: "header, activity, community, repositories"
           # isocalendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
@@ -61,4 +61,4 @@ jobs:
           plugin_screenshot_selector: "#comic img" 
           plugin_screenshot_background: no 
           # order
-          config_order: base.header, base.activity, base.community, isocalendar, habits, followup, languages, achievements, reactions, pagespeed, screenshot
+          config_order: base, habits, followup, languages, achievements, reactions, pagespeed, screenshot
