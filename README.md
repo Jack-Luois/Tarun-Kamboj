@@ -33,10 +33,12 @@
   <br><br>
   <img width="100%" src="metrics/isocalendar.svg">
   <img width="100%" src="metrics/habits.svg">
-  <img width="100%" src="metrics/issuesPRs.svg">
   <img width="100%" src="metrics/achievements.svg">
   <img width="100%" src="metrics/languages.svg">
   <img width="100%" src="metrics/reactions.svg">
+  <img width="100%" src="metrics/comic.svg">
+  <img width="100%" src="metrics/issuesPRs.svg">
+  <img width="100%" src="metrics/contribs.svg">
   <img width="100%" src="metrics/website.svg">
 </p>
 <h1 align="center"> Tools I Use <img src="https://user-images.githubusercontent.com/56023742/126891328-61ca9170-3965-43ff-8e80-56c13e5ef6ca.png" height="30px"></h1>
