@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="213" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="184" class="">
     <defs>
         <style/>
     </defs>
@@ -1292,13 +1292,11 @@
                             <div class="label" title="TensorFlow is an open source software library for numerical computation.">tensorflow</div>
                             <div class="label" title="The terminal is an interface in which you can type and execute text-based commands.">terminal</div>
                             <div class="label" title="Jupyter Notebooks are documents that contain live code, visualizations, and narrative text.">jupyter notebook</div>
-                            <div class="label" title="Atom is a open source text editor built with web technologies.">atom</div>
                             <div class="label" title="Firebase is a mobile app development platform that provides data analysis and database web services for developers.">firebase</div>
-                            <div class="label" title="Windows is Microsoft&amp;apos;s GUI-based operating system.">windows</div>
                             <div class="label" title="Markdown is a lightweight markup language.">markdown</div>
                             <div class="label" title="scikit-learn is a Python module for machine learning.">scikit-learn</div>
+                            <div class="label" title="A web application is any computer program that performs a specific function by using a web browser as its client.">web app</div>
                             <div class="label" title="Documentation is a set of information that describes a product to its users.">documentation</div>
-                            <div class="label" title="Hacktoberfest is a month-long celebration of open source software.">hacktoberfest</div>
                         </div>
                     </section>
                 </div>
