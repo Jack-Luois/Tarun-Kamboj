@@ -33,8 +33,8 @@
   <br><br>
   <img width="100%" src="metrics/isocalendar.svg">
   <img width="100%" src="metrics/habits.svg">
-  <img width="100%" src="metrics/achievements.svg">
   <img width="100%" src="metrics/languages.svg">
+  <img width="100%" src="metrics/achievements.svg">
   <img width="100%" src="metrics/reactions.svg">
   <img width="100%" src="metrics/comic.svg">
   <img width="100%" src="metrics/issuesPRs.svg">
