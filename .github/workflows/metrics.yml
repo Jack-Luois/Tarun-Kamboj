@@ -61,4 +61,4 @@ jobs:
           plugin_screenshot_selector: "#comic img" 
           plugin_screenshot_background: no 
           # order
-          config_order: base.header, base.activity, base.community, base.repositories, isocalendar, habits, followup, achievements, languages, reactions, pagespeed, screenshot
+          config_order: base.*, isocalendar, habits, followup, achievements, languages, reactions, pagespeed, screenshot
