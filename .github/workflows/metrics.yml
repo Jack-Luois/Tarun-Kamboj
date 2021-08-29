@@ -135,4 +135,24 @@ jobs:
           plugin_screenshot_title: Featured Webcomic Image
           plugin_screenshot_url: https://xkcd.com
           plugin_screenshot_selector: "#comic img" 
-          plugin_screenshot_background: no 
+          plugin_screenshot_background: no
+      # meme title
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/memetitle.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_screenshot: yes
+          plugin_screenshot_title: Random Meme
+          plugin_screenshot_background: no
+      # image title
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/imagetitle.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_screenshot: yes
+          plugin_screenshot_title: Featured Image
+          plugin_screenshot_background: no
