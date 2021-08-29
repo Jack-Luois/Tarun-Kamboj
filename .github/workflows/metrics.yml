@@ -145,6 +145,7 @@ jobs:
           base: ""
           plugin_screenshot: yes
           plugin_screenshot_title: Random Meme
+          plugin_screenshot_url: https://random-memer.herokuapp.com/
           plugin_screenshot_background: no
       # image title
       - uses: lowlighter/metrics@latest
@@ -155,4 +156,5 @@ jobs:
           base: ""
           plugin_screenshot: yes
           plugin_screenshot_title: Featured Image
+          plugin_screenshot_url: https://lh3.googleusercontent.com/DvYV_4cYy3ouiukMGQsBZffVKDN8vztKZyJ-tfMke2FDPEn6xjM6VOi7qP4Dp8YTQYiuAwIk_qU9dxoXgOq_OUIm7eR-MLJdj6S-J6hbGUQGtU5-YOHI8zCR49eQUS5LcLcJ8jo7bA=w2400
           plugin_screenshot_background: no
