@@ -19,7 +19,7 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
           plugin_screenshot: yes
-          plugin_screenshot_title: Featured Webcomic Image
+          plugin_screenshot_title: Featured Meme
           plugin_screenshot_url: https://random-memer.herokuapp.com/
           plugin_screenshot_selector: "img" 
           plugin_screenshot_background: no
