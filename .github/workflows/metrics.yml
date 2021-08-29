@@ -20,8 +20,8 @@ jobs:
           base: ""
           plugin_screenshot: yes
           plugin_screenshot_title: Featured Webcomic Image
-          plugin_screenshot_url: https://xkcdrandom.netlify.app/
-          plugin_screenshot_selector: "img" 
+          plugin_screenshot_url: https://xkcd.com/
+          plugin_screenshot_selector: "#comic img" 
           plugin_screenshot_background: no
       # stats
       - uses: lowlighter/metrics@latest
