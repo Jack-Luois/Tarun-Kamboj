@@ -79,6 +79,6 @@
     <br>
     <img src="https://readme-typing-svg.herokuapp.com?font=Poiret+One&color=8b949e&center=true&vCenter=true&width=500&height=25&lines=Storms+on+Jupiter;Credits+%3A+NASA">
   </a>
-  <img width="70%" src="metrics/comic.svg">
-  <img width="70%" src="metrics/meme.svg">
+  <img width="600px" src="metrics/comic.svg">
+  <img width="600px" src="metrics/meme.svg">
 </p>
