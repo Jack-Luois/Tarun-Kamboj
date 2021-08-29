@@ -11,6 +11,18 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
+      # meme screenshot
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/meme.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_screenshot: yes
+          plugin_screenshot_title: Featured Webcomic Image
+          plugin_screenshot_url: https://random-memer.herokuapp.com/
+          plugin_screenshot_selector: "img" 
+          plugin_screenshot_background: no
       # comic screenshot
       - uses: lowlighter/metrics@latest
         with:
