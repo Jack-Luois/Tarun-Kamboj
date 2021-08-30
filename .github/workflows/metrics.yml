@@ -14,7 +14,7 @@ jobs:
       # meme screenshot
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics/meme.svg
+          filename: Images/meme.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
@@ -26,7 +26,7 @@ jobs:
       # comic screenshot
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics/comic.svg
+          filename: Images/comic.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
@@ -38,14 +38,14 @@ jobs:
       # stats
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics/stats.svg
+          filename: Images/stats.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: header, activity, community, repositories
       # contributions
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics/contribs.svg
+          filename: Images/contribs.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
@@ -53,7 +53,7 @@ jobs:
       # isocalendar
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics/isocalendar.svg
+          filename: Images/isocalendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
@@ -61,7 +61,7 @@ jobs:
       # languages
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics/languages.svg
+          filename: Images/languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
@@ -75,7 +75,7 @@ jobs:
       # topics
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics/topics.svg
+          filename: Images/topics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
@@ -85,7 +85,7 @@ jobs:
       # mastered
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics/mastered.svg
+          filename: Images/mastered.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
@@ -96,7 +96,7 @@ jobs:
       # coding habits
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics/habits.svg
+          filename: Images/habits.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
@@ -109,7 +109,7 @@ jobs:
       # issues & PRs
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics/issuesPRs.svg
+          filename: Images/issuesPRs.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
@@ -118,7 +118,7 @@ jobs:
       # achievements
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics/achievements.svg
+          filename: Images/achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
@@ -130,7 +130,7 @@ jobs:
       # website
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics/website.svg
+          filename: Images/website.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
@@ -139,7 +139,7 @@ jobs:
       # reactions
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics/reactions.svg
+          filename: Images/reactions.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
