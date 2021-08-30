@@ -73,12 +73,11 @@
   <br>
 </p>
 <h1 align="center"> Gallery <img src="https://user-images.githubusercontent.com/56023742/126891034-da08a56a-3deb-431b-b917-f58d1c110e0d.png" height="35px"></h1>
-<img height="25px" src="https://user-images.githubusercontent.com/56023742/131288266-432b99f2-202b-4c82-bce9-470d58dc8caa.PNG">
 <p align="center">
   <a href="https://photos.app.goo.gl/E48FPSpDRT3BQ6Px6">
-    <img src="https://lh3.googleusercontent.com/DvYV_4cYy3ouiukMGQsBZffVKDN8vztKZyJ-tfMke2FDPEn6xjM6VOi7qP4Dp8YTQYiuAwIk_qU9dxoXgOq_OUIm7eR-MLJdj6S-J6hbGUQGtU5-YOHI8zCR49eQUS5LcLcJ8jo7bA=w2400">
+    <img src="https://lh3.googleusercontent.com/g_v6VFdpul5J2mtL-Y4wFoZ_6U1A3zqsy3efuiMdV-gJgaL6Mz3i5qsi9KKmShgiFnnr_prry9h7q0wnDxHhVDYsAI2CKxeYZCrDa5LViEZv5Tin1pVwQKvRGLwIoMjaCMsJOe-TdA=w2400">
     <br>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poiret+One&color=8b949e&center=true&vCenter=true&width=500&height=25&lines=Storms+on+Jupiter;Credits+%3A+NASA">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poiret+One&color=8b949e&center=true&vCenter=true&width=500&height=25&lines=Great+Red+Spot+of+Jupiter;Credits+%3A+NASA">
   </a>
   <img width="600px" src="metrics/comic.svg">
   <img width="600px" src="metrics/meme.svg">
