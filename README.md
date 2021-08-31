@@ -80,6 +80,5 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Poiret+One&color=8b949e&center=true&vCenter=true&width=500&height=25&lines=Great+Red+Spot+of+Jupiter;Credits+%3A+NASA">
   </a>
   <img width="600px" src="Images/joke.svg">
-  <img width="600px" src="Images/comic.svg">
   <img width="600px" src="Images/meme.svg">
 </p>
