@@ -71,8 +71,8 @@ jobs:
           plugin_languages_colors: "jupyter notebook:#58a6ff, html:#ff3a3a, css:#7d6cff, scss:#ff48bd, ..."
           plugin_languages_aliases: "jupyter notebook:Python, ..."
           plugin_languages_sections: most-used #, recently-used
-          plugin_languages_details: bytes-size, percentage
-          plugin_languages_recent_days: 100
+          plugin_languages_details: lines, percentage
+          plugin_languages_categories: data, markup, programming, prose
       # topics
       - uses: lowlighter/metrics@latest
         with:
