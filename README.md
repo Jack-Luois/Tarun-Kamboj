@@ -24,7 +24,7 @@
     <img height="40px" title="Discord" src="https://user-images.githubusercontent.com/56023742/126891741-21bdce2d-3210-4efc-b9a8-3f8f16987225.png">
   </a>
   <br><br>
-  <img src="https://github.com/Tarun-Kamboj/Tarun-Kamboj/blob/output/snake.svg">
+  <img src="https://github.com/Tarun-Kamboj/Tarun-Kamboj/blob/master/Images/snake.svg">
   <br><br>
 </p>
 <h1 align="center"> GitHub Stats <img src="https://user-images.githubusercontent.com/56023742/126891095-13ec30d5-00d1-41bc-b332-7add1b5e6190.png" height="35px"></h1>
