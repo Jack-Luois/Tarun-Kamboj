@@ -42,6 +42,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: header, activity, community, repositories
+          plugin_lines: yes
       # contributions
       - uses: lowlighter/metrics@latest
         with:
