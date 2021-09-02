@@ -12,12 +12,13 @@ jobs:
         uses: Platane/snk@master
         with:
           github_user_name: ${{ github.repository_owner }}
-          svg_out_path: dist/snake.svg
-      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
+          svg_out_path: snake/snake.svg
       - name: push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v2.5.0
         with:
-          target_branch: output
-          build_dir: dist
+          target_branch: master
+          keep_history: true
+          build_dir: snake
+          commit_message: Deploying the Snake
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
