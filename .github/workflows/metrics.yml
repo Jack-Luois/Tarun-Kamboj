@@ -7,11 +7,12 @@ on:
       - master
   workflow_dispatch:
 jobs:
-  Generating Metrics:
+  Generating_Metrics:
     runs-on: ubuntu-latest
     steps:
       # joke screenshot
-      - uses: lowlighter/metrics@latest
+      - name: joke
+        uses: lowlighter/metrics@latest
         with:
           filename: Images/Dynamic/joke.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -23,7 +24,8 @@ jobs:
           plugin_screenshot_selector: ".container" 
           plugin_screenshot_background: no
       # meme screenshot
-      - uses: lowlighter/metrics@latest
+      - name: meme
+        uses: lowlighter/metrics@latest
         with:
           filename: Images/Dynamic/meme.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -35,15 +37,17 @@ jobs:
           plugin_screenshot_selector: "img" 
           plugin_screenshot_background: no
       # stats
-      - uses: lowlighter/metrics@latest
+      - name: stats
+        uses: lowlighter/metrics@latest
         with:
           filename: Images/Dynamic/stats.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: header, activity, community, repositories
           plugin_lines: yes
-      # contributions
-      - uses: lowlighter/metrics@latest
+      # notable contributions
+      - name: notable contributions
+        uses: lowlighter/metrics@latest
         with:
           filename: Images/Dynamic/contribs.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -51,7 +55,8 @@ jobs:
           base: ""
           plugin_notable: yes
       # isocalendar
-      - uses: lowlighter/metrics@latest
+      - name: isocalendar
+        uses: lowlighter/metrics@latest
         with:
           filename: Images/Dynamic/isocalendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -59,7 +64,8 @@ jobs:
           base: ""
           plugin_isocalendar: yes
       # languages
-      - uses: lowlighter/metrics@latest
+      - name: languages
+        uses: lowlighter/metrics@latest
         with:
           filename: Images/Dynamic/languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -73,7 +79,8 @@ jobs:
           plugin_languages_details: percentage
           plugin_languages_categories: data, markup, programming, prose
       # topics
-      - uses: lowlighter/metrics@latest
+      - name: topics
+        uses: lowlighter/metrics@latest
         with:
           filename: Images/Dynamic/topics.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -83,7 +90,8 @@ jobs:
           plugin_topics_sort: stars
           plugin_topics_limit: 0
       # mastered
-#       - uses: lowlighter/metrics@latest
+#       - name: mastered
+#         uses: lowlighter/metrics@latest
 #         with:
 #           filename: Images/Dynamic/mastered.svg
 #           token: ${{ secrets.METRICS_TOKEN }}
@@ -94,7 +102,8 @@ jobs:
 #           plugin_topics_mode: mastered
 #           plugin_topics_limit: 0 
       # coding habits
-      - uses: lowlighter/metrics@latest
+      - name: coding habits
+        uses: lowlighter/metrics@latest
         with:
           filename: Images/Dynamic/habits.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -107,7 +116,8 @@ jobs:
           plugin_habits_charts: yes
           plugin_habits_trim: no
       # issues & PRs
-      - uses: lowlighter/metrics@latest
+      - name: issues & PRs
+        uses: lowlighter/metrics@latest
         with:
           filename: Images/Dynamic/issuesPRs.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -116,7 +126,8 @@ jobs:
           plugin_followup: yes
           plugin_followup_sections: repositories, user
       # achievements
-      - uses: lowlighter/metrics@latest
+      - name: achievements
+        uses: lowlighter/metrics@latest
         with:
           filename: Images/Dynamic/achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -128,7 +139,8 @@ jobs:
           plugin_achievements_limit: 0
           plugin_achievements_display: compact
       # website
-      - uses: lowlighter/metrics@latest
+      - name: website
+        uses: lowlighter/metrics@latest
         with:
           filename: Images/Dynamic/website.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -137,7 +149,8 @@ jobs:
           plugin_pagespeed: yes
           plugin_pagespeed_url: .user.website
       # reactions
-      - uses: lowlighter/metrics@latest
+      - name: reactions
+        uses: lowlighter/metrics@latest
         with:
           filename: Images/Dynamic/reactions.svg
           token: ${{ secrets.METRICS_TOKEN }}
