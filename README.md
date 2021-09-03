@@ -24,7 +24,7 @@
     <img height="40px" title="Discord" src="Images/discord.png">
   </a>
   <br><br>
-  <img src="Images/snake.svg">
+  <img src="snake.svg">
   <br><br>
 </p>
 <h1 align="center"> GitHub Stats <img src="Images/stats.png" height="35px"></h1>
