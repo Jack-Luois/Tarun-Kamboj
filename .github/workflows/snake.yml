@@ -13,3 +13,6 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           svg_out_path: snake/snake.svg
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Snake Deployed
