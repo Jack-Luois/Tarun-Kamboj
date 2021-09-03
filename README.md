@@ -51,7 +51,7 @@
       <td align='center'><img width="60" src="Images/Static/html.png" title="HTML"></td>
       <td align='center'><img width="60" src="Images/Static/css.png" title="CSS"></td>
       <td align='center'><img width="60" src="Images/Static/bootstrap.png" title="Bootstrap"></td>
-      <td align='center'><img height="60" src="Images/Static/django.png" title="Django"></td>
+      <td align='center'><img width="40" src="Images/Static/django.png" title="Django"></td>
     </tr>
     <tr>
       <td align='center'><img width="60" src="Images/Static/markdown.png" title="MarkDown"></td>
