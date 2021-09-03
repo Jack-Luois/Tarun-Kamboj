@@ -7,7 +7,7 @@ on:
       - master
   workflow_dispatch:
 jobs:
-  github-metrics:
+  Generating Metrics:
     runs-on: ubuntu-latest
     steps:
       # joke screenshot
