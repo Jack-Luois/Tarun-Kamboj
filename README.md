@@ -24,7 +24,7 @@
     <img height="40px" src="Images/Static/discord.png" title="Discord">
   </a>
   <br><br>
-  <img src="snake.svg" style="background:#161b22;">
+  <img src="Images/Dynamic/snake.svg" style="background:#161b22;">
   <br><br>
 </p>
 <h1 align="center"> GitHub Stats <img height="30px" src="Images/Static/stats.png"></h1>
