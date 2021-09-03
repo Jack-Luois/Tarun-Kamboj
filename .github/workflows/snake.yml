@@ -1,7 +1,7 @@
 name: Deploy the Snake
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 */1 * * *"
   workflow_dispatch:
 jobs:
   build:
@@ -17,6 +17,8 @@ jobs:
         with:
           add: 'Images/Dynamic/snake.svg'
           author_name: Eternal_
+          author_email: me@eternity.com
           branch: master
+          cwd: '.'
           message: 'Snake Deployed'
 
