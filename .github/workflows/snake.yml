@@ -1,18 +1,22 @@
 name: Deploy the Snake
 on:
   schedule:
-      # every 6 hours
     - cron: "0 */6 * * *"
   workflow_dispatch:
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: generate snake.svg
+      - name: generate snake
         uses: Platane/snk@master
         with:
           github_user_name: ${{ github.repository_owner }}
-          svg_out_path: snake/snake.svg
-      - uses: stefanzweifel/git-auto-commit-action@v4
+          svg_out_path: Images/Dynamic/snake.svg
+      - name: commit changes
+        uses: EndBug/add-and-commit@v7 # You can change this to use a specific version.
         with:
-          commit_message: Snake Deployed
+          add: 'Images/Dynamic/snake.svg'
+          author_name: Eternal_
+          branch: master
+          message: 'Snake Deployed'
+
