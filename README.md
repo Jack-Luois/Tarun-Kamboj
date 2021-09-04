@@ -33,12 +33,12 @@
   <br><br>
   <img width="100%" src="Images/Dynamic/isocalendar.svg">
   <img width="100%" src="Images/Dynamic/habits.svg">
+  <img width="100%" src="Images/Dynamic/issuesPRs.svg">
+  <img width="100%" src="Images/Dynamic/contribs.svg">
   <img width="100%" src="Images/Dynamic/languages.svg">
   <img width="100%" src="Images/Dynamic/topics.svg">
   <img width="100%" src="Images/Dynamic/achievements.svg">
   <img width="100%" src="Images/Dynamic/reactions.svg">
-  <img width="100%" src="Images/Dynamic/issuesPRs.svg">
-  <img width="100%" src="Images/Dynamic/contribs.svg">
   <img width="100%" src="Images/Dynamic/website.svg">
 </p>
 <h1 align="center"> Tools I Use <img height="30px" src="Images/Static/tools.png"></h1>
@@ -74,10 +74,10 @@
 </p>
 <h1 align="center"> Gallery <img height="30px" src="Images/Static/gallery.png"></h1>
 <p align="center">
-  <a href="https://photos.app.goo.gl/E48FPSpDRT3BQ6Px6">
-    <img src="https://lh3.googleusercontent.com/g_v6VFdpul5J2mtL-Y4wFoZ_6U1A3zqsy3efuiMdV-gJgaL6Mz3i5qsi9KKmShgiFnnr_prry9h7q0wnDxHhVDYsAI2CKxeYZCrDa5LViEZv5Tin1pVwQKvRGLwIoMjaCMsJOe-TdA=w2400">
+  <a href="https://photos.app.goo.gl/43xvVUVQ6rUtRzeb9">
+    <img src="https://lh3.googleusercontent.com/qiL23jaWOJbOp_PBoNKNltbHDlNtDSV-TQnShiyT1n8U7YpgqTCvd1qWfR1FAIJ7dsqRd16R2ltD5v2MNwQpUuNdkC40W-x4i3OLL35HYYZyOw0vr8QP5S-KxlcZsS568n1IMPMurg=w2400">
     <br>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poiret+One&color=8b949e&center=true&vCenter=true&width=500&height=25&lines=Great+Red+Spot+of+Jupiter;Credits+%3A+NASA">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poiret+One&color=8b949e&center=true&vCenter=true&width=500&height=25&lines=Illustration+of+a+Planet+in+a+Binary+Star+System;Credits+%3A+Unknown">
   </a>
   <img width="600px" src="Images/Dynamic/joke.svg">
   <img width="600px" src="Images/Dynamic/meme.svg">
