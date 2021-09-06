@@ -20,7 +20,7 @@ jobs:
           base: ""
           plugin_screenshot: yes
           plugin_screenshot_title: Joke of the day
-          plugin_screenshot_url: https://readme-jokes.vercel.app/api?bgColor=%2300000000&hideBorder&textColor=%232550be&qColor=%23000000&aColor=%232550be
+          plugin_screenshot_url: https://readme-jokes.vercel.app/api?bgColor=%23fff&hideBorder&textColor=%232550be&qColor=%23000&aColor=%232550be
           plugin_screenshot_selector: ".container" 
           plugin_screenshot_background: no
       # meme screenshot
