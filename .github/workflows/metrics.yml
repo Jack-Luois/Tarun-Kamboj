@@ -10,6 +10,19 @@ jobs:
   Generating_Metrics:
     runs-on: ubuntu-latest
     steps:
+      # quote screenshot
+      - name: quote
+        uses: lowlighter/metrics@latest
+        with:
+          filename: Images/Dynamic/quote.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_screenshot: yes
+          plugin_screenshot_title: Quote of the day
+          plugin_screenshot_url: https://quotes-github-readme.vercel.app/api
+          plugin_screenshot_selector: "div" 
+          plugin_screenshot_background: no
       # joke screenshot
       - name: joke
         uses: lowlighter/metrics@latest
