@@ -11,18 +11,18 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # quote screenshot
-      - name: quote
-        uses: lowlighter/metrics@latest
-        with:
-          filename: Images/Dynamic/quote.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          base: ""
-          plugin_screenshot: yes
-          plugin_screenshot_title: Quote of the day
-          plugin_screenshot_url: https://quotes-github-readme.vercel.app/api
-          plugin_screenshot_selector: "foreignObject" 
-          plugin_screenshot_background: no
+#       - name: quote
+#         uses: lowlighter/metrics@latest
+#         with:
+#           filename: Images/Dynamic/quote.svg
+#           token: ${{ secrets.METRICS_TOKEN }}
+#           committer_token: ${{ secrets.GITHUB_TOKEN }}
+#           base: ""
+#           plugin_screenshot: yes
+#           plugin_screenshot_title: Quote of the day
+#           plugin_screenshot_url: https://quotes-github-readme.vercel.app/api
+#           plugin_screenshot_selector: "foreignObject" 
+#           plugin_screenshot_background: no
       # joke screenshot
       - name: joke
         uses: lowlighter/metrics@latest
@@ -33,7 +33,7 @@ jobs:
           base: ""
           plugin_screenshot: yes
           plugin_screenshot_title: Joke of the day
-          plugin_screenshot_url: https://readme-jokes.vercel.app/api?bgColor=%23fff&hideBorder&textColor=%232550be&qColor=%23000&aColor=%232550be
+          plugin_screenshot_url: https://readme-jokes.vercel.app/api?bgColor=%23fff&hideBorder&textColor=%23000&qColor=%23000&aColor=%2325b
           plugin_screenshot_selector: ".container" 
           plugin_screenshot_background: no
       # meme screenshot
