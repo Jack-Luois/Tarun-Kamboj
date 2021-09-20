@@ -42,7 +42,7 @@
   <img width="100%" src="Images/Dynamic/website.svg">
 </p>
 <h1 align="center"> Tools I Use <img height="30px" src="Images/Static/tools.png"></h1>
-<p align="center">
+<div align="center">
   <br>
   <table align='center'>
     <tr>
@@ -71,7 +71,7 @@
     </tr>
   </table>
   <br>
-</p>
+</div>
 <h1 align="center"> Gallery <img height="30px" src="Images/Static/gallery.png"></h1>
 <p align="center">
   <a href="https://photos.app.goo.gl/GtTAz5GnzvT4DKnJ8">
