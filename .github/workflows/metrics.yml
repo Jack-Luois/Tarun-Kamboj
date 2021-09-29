@@ -46,8 +46,8 @@ jobs:
           base: ""
           plugin_screenshot: yes
           plugin_screenshot_title: Meme of the day
-          plugin_screenshot_url: https://random-memer.herokuapp.com/
-          plugin_screenshot_selector: "img" 
+          plugin_screenshot_url: https://programmerhumor.io/?bimber_random_post=true
+          plugin_screenshot_selector: ".g1-frame-inner" 
           plugin_screenshot_background: no
       # stats
       - name: stats
