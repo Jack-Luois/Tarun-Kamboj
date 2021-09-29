@@ -74,10 +74,10 @@
 </div>
 <h1 align="center"> Gallery <img height="30px" src="Images/Static/gallery.png"></h1>
 <p align="center">
-  <a href="https://photos.app.goo.gl/GtTAz5GnzvT4DKnJ8">
-    <img src="https://lh3.googleusercontent.com/UW_A1PHVKrZIXyQg6UZTFZLeFfUe5GQkL5zMBwzI35SjnOy93k26cD7rmi90g_OtvqqTq3inkmJPQ8okaDQMuQ5T4N_tLRtmx4r2zcLWLRqwOsOwkWONO7wVwH1_qsWltyo9ADlg0Q=w2400">
+  <a href="https://photos.app.goo.gl/QyELHsvSAk4nJrYB7">
+    <img src="https://lh3.googleusercontent.com/gKob5b-cO1Qzfjio6lm1oU-v0aiZlxW6HFhHL8poqDAdm3UmMS82p2SSJ0Ex_Z-3HiE2cl__ai0CcDS-2bPlpI4T6iXxRA9ytAsAR44cHr3FOY8JxeJ2pMgY-35z0x4NOg_lhWpLUw=w2400">
     <br>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poiret+One&color=8b949e&center=true&vCenter=true&width=500&height=25&lines=Illustration+of+Trappist+Planetary+System;Credits+%3A+Unknown">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poiret+One&color=8b949e&center=true&vCenter=true&width=500&height=25&lines=Saturn+as+Seen+by+Cassini;Credits+%3A+NASA+CASSINI">
   </a>
   <img width="600px" src="Images/Dynamic/joke.svg">
   <img width="600px" src="Images/Dynamic/meme.svg">
