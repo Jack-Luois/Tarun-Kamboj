@@ -79,6 +79,8 @@
     <br>
     <img src="https://readme-typing-svg.herokuapp.com?font=Poiret+One&color=8b949e&center=true&vCenter=true&width=500&height=25&lines=Saturn%27s+Hexagon+on+its+North+Pole;Credits+%3A+NASA+Cassini">
   </a>
-  <img width="600px" src="Images/Dynamic/joke.svg">
-  <img width="600px" src="Images/Dynamic/meme.svg">
+  <br>
+  <img width="400px" src="Images/Dynamic/cartoon.svg">
+  <img width="400px" src="Images/Dynamic/meme.svg">
+<!--   <img width="400px" src="Images/Dynamic/joke.svg"> -->
 </p>
