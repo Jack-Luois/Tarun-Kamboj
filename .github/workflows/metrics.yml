@@ -10,19 +10,19 @@ jobs:
   Generating_Metrics:
     runs-on: ubuntu-latest
     steps:
-      # quote screenshot
-#       - name: quote
-#         uses: lowlighter/metrics@latest
-#         with:
-#           filename: Images/Dynamic/quote.svg
-#           token: ${{ secrets.METRICS_TOKEN }}
-#           committer_token: ${{ secrets.GITHUB_TOKEN }}
-#           base: ""
-#           plugin_screenshot: yes
-#           plugin_screenshot_title: Quote of the day
-#           plugin_screenshot_url: https://quotes-github-readme.vercel.app/api
-#           plugin_screenshot_selector: "foreignObject" 
-#           plugin_screenshot_background: no
+      # comic screenshot
+      - name: joke
+        uses: lowlighter/metrics@latest
+        with:
+          filename: Images/Dynamic/comic.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_screenshot: yes
+          plugin_screenshot_title: Comic of the day
+          plugin_screenshot_url: https://comic.browserling.com/random
+          plugin_screenshot_selector: "#cartoon img" 
+          plugin_screenshot_background: no
       # joke screenshot
       - name: joke
         uses: lowlighter/metrics@latest
