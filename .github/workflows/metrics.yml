@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # comic screenshot
-      - name: joke
+      - name: comic
         uses: lowlighter/metrics@latest
         with:
           filename: Images/Dynamic/comic.svg
