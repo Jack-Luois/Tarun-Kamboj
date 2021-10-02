@@ -10,16 +10,16 @@ jobs:
   Generating_Metrics:
     runs-on: ubuntu-latest
     steps:
-      # comic screenshot
-      - name: comic
+      # cartoon screenshot
+      - name: cartoon
         uses: lowlighter/metrics@latest
         with:
-          filename: Images/Dynamic/comic.svg
+          filename: Images/Dynamic/cartoon.svg
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
           plugin_screenshot: yes
-          plugin_screenshot_title: Comic of the day
+          plugin_screenshot_title: Cartoon of the day
           plugin_screenshot_url: https://comic.browserling.com/random
           plugin_screenshot_selector: "#cartoon img" 
           plugin_screenshot_background: no
