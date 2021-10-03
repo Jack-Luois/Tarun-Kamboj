@@ -25,9 +25,11 @@
   </a>
   <br><br>
   <img src="Images/Dynamic/snake.svg" style="background:#161b22;">
-  <br><br>
+  <br><br><br><br>
+  <img height="45px" src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=E1E1E1&size=50&center=true&vCenter=true&width=300&lines=Github+Stats">
+  <img height="45px" src="Images/Static/stats.png">
+  <hr>
 </p>
-<h1 align="center"> GitHub Stats <img height="30px" src="Images/Static/stats.png"></h1>
 <p align="center">
   <img width="100%" src="Images/Dynamic/stats.svg">
   <br><br>
@@ -40,10 +42,10 @@
   <img width="100%" src="Images/Dynamic/achievements.svg">
   <img width="100%" src="Images/Dynamic/reactions.svg">
   <img width="100%" src="Images/Dynamic/website.svg">
-</p>
-<h1 align="center"> Tools I Use <img height="30px" src="Images/Static/tools.png"></h1>
-<div align="center">
-  <br>
+  <br><br><br>
+  <img height="45px" src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=E1E1E1&size=50&center=true&vCenter=true&width=250&lines=Tools+I+Use">
+  <img height="45px" src="Images/Static/tools.png">
+  <hr><br>
   <table align='center'>
     <tr>
       <td align='center'><img width="70" src="Images/Static/python.png" title="Python"></td>
@@ -70,9 +72,13 @@
       <td></td>
     </tr>
   </table>
-  <br>
-</div>
-<h1 align="center"> Gallery <img height="30px" src="Images/Static/gallery.png"></h1>
+  <br><br>
+</p>
+<p align="center">
+  <img height="45px" src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=E1E1E1&size=50&center=true&vCenter=true&width=160&lines=Gallery">
+  <img height="45px" src="Images/Static/gallery.png">
+  <hr>
+</p>
 <p align="center">
   <a href="https://photos.app.goo.gl/ZSJ3b9h1aEEQUHWZ8">
     <img src="https://lh3.googleusercontent.com/xIbROy_oH4Wr5o0rxU0GN1MDEBJSfrlBHOL0ymOOh0e-3nZRwt8xPLn6a4xevJnkYyVWPiZWqiaxnY9C_oqSP1CkfzDoKuq8cGNeiiVc3hHWK6QBYWaMnx5HjWr2kPVWeDlxTJ7S8g=w2400">
