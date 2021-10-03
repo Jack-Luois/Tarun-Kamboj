@@ -83,7 +83,7 @@
   <a href="https://photos.app.goo.gl/ZSJ3b9h1aEEQUHWZ8">
     <img src="https://lh3.googleusercontent.com/xIbROy_oH4Wr5o0rxU0GN1MDEBJSfrlBHOL0ymOOh0e-3nZRwt8xPLn6a4xevJnkYyVWPiZWqiaxnY9C_oqSP1CkfzDoKuq8cGNeiiVc3hHWK6QBYWaMnx5HjWr2kPVWeDlxTJ7S8g=w2400">
     <br>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poiret+One&color=8b949e&center=true&vCenter=true&width=500&height=25&lines=Saturn%27s+Hexagon+on+its+North+Pole;Credits+%3A+NASA+Cassini">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poiret+One&color=E1E1E1&center=true&vCenter=true&width=500&height=25&lines=Saturn%27s+Hexagon+on+its+North+Pole;Credits+%3A+NASA+Cassini">
   </a>
   <br>
   <img width="600px" src="Images/Dynamic/cartoon.svg">
