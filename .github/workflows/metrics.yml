@@ -23,7 +23,7 @@ jobs:
           plugin_screenshot_url: https://comic.browserling.com/random
           plugin_screenshot_selector: "#cartoon img" 
           plugin_screenshot_background: no
-          config_padding: 0, 8 + 5%
+          config_padding: 0, 8 + 2%
       # joke screenshot
       - name: joke
         uses: lowlighter/metrics@latest
