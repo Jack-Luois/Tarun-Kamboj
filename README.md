@@ -46,27 +46,27 @@
   <br>
   <table align='center'>
     <tr>
-      <td align='center'><img width="60" src="Images/Static/python.png" title="Python"></td>
-      <td align='center'><img width="60" src="Images/Static/cpp.png" title="C++"></td>
-      <td align='center'><img width="60" src="Images/Static/html.png" title="HTML"></td>
-      <td align='center'><img width="60" src="Images/Static/css.png" title="CSS"></td>
-      <td align='center'><img width="60" src="Images/Static/bootstrap.png" title="Bootstrap"></td>
-      <td align='center'><img width="40" src="Images/Static/django.png" title="Django"></td>
+      <td align='center'><img width="70" src="Images/Static/python.png" title="Python"></td>
+      <td align='center'><img width="70" src="Images/Static/cpp.png" title="C++"></td>
+      <td align='center'><img width="70" src="Images/Static/html.png" title="HTML"></td>
+      <td align='center'><img width="70" src="Images/Static/css.png" title="CSS"></td>
+      <td align='center'><img width="70" src="Images/Static/bootstrap.png" title="Bootstrap"></td>
+      <td align='center'><img width="50" src="Images/Static/django.png" title="Django"></td>
     </tr>
     <tr>
-      <td align='center'><img width="60" src="Images/Static/markdown.png" title="MarkDown"></td>
-      <td align='center'><img width="60" src="Images/Static/firebase.png" title="Firebase"></td>
-      <td align='center'><img width="60" src="Images/Static/sql.png" title="SQL"></td>
-      <td align='center'><img width="60" src="Images/Static/sublime.png" title="Sublime"></td>
-      <td align='center'><img width="60" src="Images/Static/git.png" title="git"></td>
-      <td align='center'><img width="60" src="Images/Static/github.png" title="Github"></td>
+      <td align='center'><img width="70" src="Images/Static/markdown.png" title="MarkDown"></td>
+      <td align='center'><img width="70" src="Images/Static/firebase.png" title="Firebase"></td>
+      <td align='center'><img width="70" src="Images/Static/sql.png" title="SQL"></td>
+      <td align='center'><img width="70" src="Images/Static/sublime.png" title="Sublime"></td>
+      <td align='center'><img width="70" src="Images/Static/git.png" title="git"></td>
+      <td align='center'><img width="70" src="Images/Static/github.png" title="Github"></td>
     </tr>
     <tr>
       <td></td>
-      <td align='center'><img width="60" src="Images/Static/jupyter.png" title="Jupyter"></td>
-      <td align='center'><img width="60" src="Images/Static/tensorflow.png" title="TensorFlow"></td>
-      <td align='center'><img width="60" src="Images/Static/keras.png" title="Keras"></td>
-      <td align='center'><img width="60" src="Images/Static/spark.png" title="Apache Spark"></td>
+      <td align='center'><img width="70" src="Images/Static/jupyter.png" title="Jupyter"></td>
+      <td align='center'><img width="70" src="Images/Static/tensorflow.png" title="TensorFlow"></td>
+      <td align='center'><img width="70" src="Images/Static/keras.png" title="Keras"></td>
+      <td align='center'><img width="70" src="Images/Static/spark.png" title="Apache Spark"></td>
       <td></td>
     </tr>
   </table>
