@@ -23,7 +23,7 @@ jobs:
           plugin_screenshot_url: https://comic.browserling.com/random
           plugin_screenshot_selector: "#cartoon img" 
           plugin_screenshot_background: no
-          config_padding: 0, 8 + 2%
+          config_padding: 0, 8 + 1%
       # joke screenshot
       - name: joke
         uses: lowlighter/metrics@latest
@@ -37,6 +37,7 @@ jobs:
           plugin_screenshot_url: https://readme-jokes.vercel.app/api?bgColor=%23fff&hideBorder&textColor=%23000&qColor=%23000&aColor=%2325b
           plugin_screenshot_selector: ".container" 
           plugin_screenshot_background: no
+          config_padding: 0, 8 + 5%
       # meme screenshot
       - name: meme
         uses: lowlighter/metrics@latest
@@ -50,6 +51,7 @@ jobs:
           plugin_screenshot_url: https://programmerhumor.io/?bimber_random_post=true
           plugin_screenshot_selector: ".g1-frame-inner" 
           plugin_screenshot_background: no
+          config_padding: 0, 8 + 1%
       # stats
       - name: stats
         uses: lowlighter/metrics@latest
