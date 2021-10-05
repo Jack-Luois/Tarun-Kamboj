@@ -1,4 +1,4 @@
-<p align="center"><! –– and the comment closes with ––>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Tarun-Kamboj&style=flat-square&color=40c463">
   <br><br><br>
   <a href="https://tarun-kamboj.github.io/">
