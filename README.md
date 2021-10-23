@@ -81,14 +81,14 @@
   <hr>
 </p>
 <p align="center">
-  <a href="https://photos.app.goo.gl/ZSJ3b9h1aEEQUHWZ8">
-    <img src="https://lh3.googleusercontent.com/xIbROy_oH4Wr5o0rxU0GN1MDEBJSfrlBHOL0ymOOh0e-3nZRwt8xPLn6a4xevJnkYyVWPiZWqiaxnY9C_oqSP1CkfzDoKuq8cGNeiiVc3hHWK6QBYWaMnx5HjWr2kPVWeDlxTJ7S8g=w2400">
+  <a href="https://photos.app.goo.gl/bZDFY6yErU6jKrZW7">
+    <img src="https://lh3.googleusercontent.com/D-8tAXFdTtG8TqxCXKO9SDZ_Op1SbHklPP19AjIYRlSGsb9m4rVMMopZaSNqYOAruHuPiEH0ye0IDfYerJxe4ofll52C7HMGSY1KBYrwHdaWny1WSK2eyAlZAhbJuZ8vSV-lGKFuGg=w2400">
     <br>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poiret+One&color=E1E1E1&center=true&vCenter=true&width=500&height=25&lines=Saturn%27s+Hexagon+on+its+North+Pole;Credits+%3A+NASA+Cassini">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poiret+One&color=E1E1E1&center=true&vCenter=true&width=500&height=25&lines=A+View+of+Earth+From+ISS;Credits+%3A+NASA">
   </a>
   <br>
   <img width="600px" src="Images/Dynamic/cartoon.svg">
   <img width="600px" src="Images/Dynamic/joke.svg">
-  <img width="600px" src="Images/Dynamic/meme.svg">
+  <!-- <img width="600px" src="Images/Dynamic/meme.svg"> -->
 </p>
 <!--  -->
