@@ -1410,7 +1410,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="59.623333333333335 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="60.03666666666666 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1434,12 +1434,12 @@
                   
                     <div class="value-wrapper">
                       <div class="value">
-                        1577
+                        1581
                       </div>
                     </div>
                   
                 </div>
-                                <div class="text">Repositories have been deployed 1577 times</div>
+                                <div class="text">Repositories have been deployed 1581 times</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -1531,7 +1531,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="154.52258726899382 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="154.7347707049966 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -1600,7 +1600,7 @@
                   <span class="prefix"></span> Developer
                   
                     <span class="gh">
-                      ranked 2.33m out of 82m users
+                      ranked 2.34m out of 82m users
                     </span>
                   
                   
