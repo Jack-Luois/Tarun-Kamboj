@@ -32,8 +32,8 @@
                             <div class="label" title="Google LLC is an American multinational technology company that specializes in Internet-related services and products.">google</div>
                             <div class="label" title="SQL is a standard language for storing, retrieving and manipulating data in databases.">sql</div>
                             <div class="label" title="MySQL is an open source relational database management system.">mysql</div>
-                            <div class="label" title="Django is a web application framework for Python.">django</div>
                             <div class="label" title="Data visualization is the graphic representation of data and trends.">data visualization</div>
+                            <div class="label" title="Django is a web application framework for Python.">django</div>
                             <div class="label" title="The GitHub API allows you to build applications that integrate with GitHub.">github api</div>
                             <div class="label" title="Front end is the programming and layout that people see and interact with.">front end</div>
                             <div class="label" title="The terminal is an interface in which you can type and execute text-based commands.">terminal</div>
